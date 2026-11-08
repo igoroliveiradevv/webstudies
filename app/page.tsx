@@ -21,7 +21,8 @@ export default function Home(){
  useEffect(()=>{try{const a=localStorage.getItem("ritmo-subjects"),b=localStorage.getItem("ritmo-sessions");if(a)setSubjects(JSON.parse(a));if(b)setSessions(JSON.parse(b));}catch{}},[]);
  useEffect(()=>{localStorage.setItem("ritmo-subjects",JSON.stringify(subjects));},[subjects]);
  useEffect(()=>{localStorage.setItem("ritmo-sessions",JSON.stringify(sessions));},[sessions]);
- useEffect(()=>{if("serviceWorker" in navigator)navigator.serviceWorker.register("/sw.js").catch(()=>{});},[]);\n useEffect(()=>{if(!running)return;const t=setInterval(()=>setElapsed(v=>v+1),1000);return()=>clearInterval(t)},[running]);
+ useEffect(()=>{if("serviceWorker" in navigator)navigator.serviceWorker.register("/sw.js").catch(()=>{});},[]);
+ useEffect(()=>{if(!running)return;const t=setInterval(()=>setElapsed(v=>v+1),1000);return()=>clearInterval(t)},[running]);
  const total=sessions.reduce((a,b)=>a+b.seconds,0); const todayTotal=sessions.filter(s=>s.date===today()).reduce((a,b)=>a+b.seconds,0);
  const week=useMemo(()=>Array.from({length:7},(_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);const key=d.toISOString().slice(0,10);return {label:["D","S","T","Q","Q","S","S"][d.getDay()],value:sessions.filter(s=>s.date===key).reduce((a,b)=>a+b.seconds,0)}}),[sessions]);
  const bySubject=subjects.map(s=>({...s,seconds:sessions.filter(x=>x.subjectId===s.id).reduce((a,b)=>a+b.seconds,0)})).sort((a,b)=>b.seconds-a.seconds);
