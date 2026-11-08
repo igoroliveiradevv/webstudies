@@ -91,3 +91,32 @@
   .chooseList { grid-template-columns: 1fr; }
   .headerRight .avatar { display: none; }
 }
+
+/* Simulados: enunciados extensos e navegação consistente */
+.question { width: 100%; min-width: 0; }
+.question h3 {
+  max-width: none;
+  width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  line-height: 1.75;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+}
+.questionMeta { display: flex; flex-wrap: wrap; gap: 6px 10px; line-height: 1.5; }
+.answerOptions { width: 100%; }
+.answer { align-items: flex-start; line-height: 1.6; white-space: pre-wrap; overflow-wrap: anywhere; }
+.answer span { flex: 0 0 25px; }
+.quizNavButtons { display: flex; align-items: center; gap: 8px; }
+.quizNavButtons button { min-height: 40px; }
+.availabilityNote { margin: 0 0 12px; padding: 10px 12px; border: 1px solid #34304a; border-radius: 8px; background: #211f30; }
+.review p { white-space: pre-wrap; overflow-wrap: anywhere; line-height: 1.65; }
+@media (max-width: 650px) {
+  .question h3 { font-size: 15px; line-height: 1.7; }
+  .quizNavButtons { width: 100%; }
+  .quizNavButtons button { flex: 1; }
+  .quizBottom { flex-wrap: wrap; }
+  .availabilityNote { line-height: 1.6; }
+}
