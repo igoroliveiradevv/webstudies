@@ -1,0 +1,11 @@
+{
+  "name": "Ritmo PAS — Estudos",
+  "short_name": "Ritmo PAS",
+  "description": "Seu espaço de estudos para o PAS/UnB",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10131b",
+  "theme_color": "#10131b",
+  "lang": "pt-BR",
+  "icons": []
+}
