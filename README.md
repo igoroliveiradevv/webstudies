@@ -29,3 +29,15 @@ Fontes para cadernos e gabaritos:
 - https://www.cebraspe.org.br/pas-unb/publicacoes/
 - https://passeandounb.com/provas-anteriores-do-pas-1/
 - https://ue.com.br/banco-de-questoes/pas-unb
+
+
+## Acervo de provas PAS 1 (2009–2025)
+
+O catálogo `data/pas1-acervo.json` reúne os 17 anos de provas e aponta para o acervo de cadernos/gabaritos e para o banco externo por ano.
+
+**Atenção:** catálogo de fontes não significa que os enunciados estejam importados para a tabela de questões. O acervo externo da UE informa 8.879 questões do PAS/UnB de 2005 a 2025, mas a consulta automatizada ao conteúdo foi bloqueada (HTTP 403). Por isso, não copiamos itens incompletos nem inventamos enunciados/gabaritos. O banco interno só deve receber questões integrais após extração e conferência do caderno e do gabarito definitivo, preservando a identificação do ano, etapa, idioma, tipo de item e eventual anulação.
+
+Fontes:
+- https://passeandounb.com/provas-anteriores-do-pas-1/
+- https://ue.com.br/banco-de-questoes/pas-unb
+- https://www.cebraspe.org.br/pas-unb/publicacoes/
