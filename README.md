@@ -20,7 +20,7 @@ npm run dev
 Abra http://localhost:3000.
 
 ## Banco de dados
-O projeto está preparado para usar Neon Postgres via `@neondatabase/serverless`. A conexão exige `DATABASE_URL`. O protótipo atual guarda matérias e sessões no armazenamento local do navegador; ainda não existe conta de usuário nem sincronização entre dispositivos. Não configurei conexão fictícia.
+O projeto está conectado ao Neon Postgres pela integração da Vercel, com `DATABASE_URL` disponível em Preview e Production. A rota `/api/health/db` executa uma consulta real (`SELECT 1`) para verificar a conexão. As matérias e sessões do painel ainda ficam no armazenamento local do navegador: o banco está provisionado e conectado, mas a persistência dos dados de estudo no Postgres e a sincronização entre dispositivos ainda não foram implementadas.
 
 ## Questões do PAS
 A base inicial contém itens autorais de treino, identificados como demonstrativos. Os cadernos e gabaritos oficiais estão ligados na biblioteca do app. A importação integral dos itens precisa de extração e conferência dos PDFs oficiais, classificação por matéria e revisão de gabaritos; não marquei questões autorais como oficiais.
