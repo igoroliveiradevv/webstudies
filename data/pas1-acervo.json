@@ -1,143 +1,31 @@
 {
-  "title": "Acervo de provas anteriores do PAS 1",
-  "from": 2009,
-  "to": 2025,
-  "years": [
+  "title": "Fontes oficiais de provas do PAS 1 fornecidas para o Ritmo PAS",
+  "source": "Cebraspe / UnB",
+  "exams": [
     {
       "year": 2025,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2025",
-      "status": "PDF disponível no acervo; itens ainda não importados"
+      "part": 1,
+      "url": "https://cdn.cebraspe.org.br/pas/arquivos/8C36DF6589D1F5827B9A1D75925A2DFD1E93E07956FD0047D440518F16CF85A9.pdf",
+      "status": "fonte cadastrada; questões ainda não importadas"
+    },
+    {
+      "year": 2025,
+      "part": 2,
+      "url": "https://cdn.cebraspe.org.br/pas/arquivos/A9596F5E44456F918784D261DC925AFCBA2E006373513464C5B6F3B6A0F4230F.pdf",
+      "status": "fonte cadastrada; questões ainda não importadas"
     },
     {
       "year": 2024,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2024",
-      "status": "PDF disponível no acervo; itens ainda não importados"
+      "part": 1,
+      "url": "https://cdn.cebraspe.org.br/pas/arquivos/985_PAS1_001_01.pdf",
+      "status": "fonte cadastrada; questões ainda não importadas"
     },
     {
       "year": 2023,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2023",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2022,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2022",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2021,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2021",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2020,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2020",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2019,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2019",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2018,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2018",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2017,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2017",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2016,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2016",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2015,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2015",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2014,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2014",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2013,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2013",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2012,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2012",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2011,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2011",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2010,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2010",
-      "status": "PDF disponível no acervo; itens ainda não importados"
-    },
-    {
-      "year": 2009,
-      "stage": "PAS 1",
-      "source": "Cebraspe / UnB",
-      "examArchive": "https://passeandounb.com/provas-anteriores-do-pas-1/",
-      "questionBank": "https://ue.com.br/banco-de-questoes/pas-unb/2009",
-      "status": "PDF disponível no acervo; itens ainda não importados"
+      "part": 1,
+      "url": "https://cdn.cebraspe.org.br/pas/arquivos/882_PAS1_001_01.pdf",
+      "status": "fonte cadastrada; questões ainda não importadas"
     }
-  ]
+  ],
+  "note": "Os cadernos não incluem necessariamente os gabaritos definitivos. Importação de itens e associação dos gabaritos precisa ser feita separadamente."
 }
