@@ -23,6 +23,7 @@ export async function ensureAccountTables() {
     legacy_id UUID,
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
   )`;
+  await sql`CREATE UNIQUE INDEX IF NOT EXISTS ritmo_users_username_lower_unique ON ritmo_users (LOWER(username))`;
   await sql`CREATE TABLE IF NOT EXISTS ritmo_user_data (
     user_id UUID PRIMARY KEY,
     data JSONB NOT NULL DEFAULT '{"subjects":[],"sessions":[]}'::jsonb,
