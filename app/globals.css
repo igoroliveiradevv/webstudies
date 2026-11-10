@@ -120,3 +120,5 @@
   .quizBottom { flex-wrap: wrap; }
   .availabilityNote { line-height: 1.6; }
 }
+
+.accountLink{font-size:11px;color:#c6b5ff;text-decoration:none;border:1px solid #44395f;background:#28233a;border-radius:8px;padding:8px 11px}.accountLink:hover{border-color:#a78bfa}@media(max-width:650px){.accountLink{font-size:10px;padding:7px 9px}}
