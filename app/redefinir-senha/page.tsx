@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import "./auth-extra.css";
+import "../conta/conta.css";
 
 export default function ResetPasswordPage() {
   const [token,setToken]=useState("");
