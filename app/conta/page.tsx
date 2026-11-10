@@ -6,8 +6,8 @@ import Link from "next/link";
 
 export default function ContaPage() {
   const [mode, setMode] = useState<"register" | "login">("register");
-  const [username, setUsername] = useState("igor0869");
-  const [email, setEmail] = useState("");
+  const [username, setUsername] = useState("igorevv");
+  const [email, setEmail] = useState("oigor0869@gmail.com");
   const [password, setPassword] = useState("");
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
@@ -51,7 +51,7 @@ export default function ContaPage() {
         {mode === "register" && <div className="passwordRules">A senha deve ter 12+ caracteres, letra maiúscula, minúscula, número e símbolo.</div>}
         {error && <div className="accountError">{error}</div>}
         {message && <div className="accountSuccess">{message}</div>}
-        <button className="accountSubmit" disabled={loading}>{loading ? "Aguarde..." : mode === "register" ? "Criar conta" : "Entrar"}</button>
+        <button className="accountSubmit" disabled={loading}>{loading ? "Aguarde..." : mode === "register" ? "Criar conta" : "Entrar"}</button>\n        {mode === "login" && <Link className="forgotLink" href="/esqueci-senha">Esqueci minha senha</Link>}
       </form>
       <p className="accountFoot">Ao criar sua conta, seu histórico de estudos deste dispositivo será associado a ela.</p>
       <Link href="/" className="backHome">← Voltar ao Ritmo PAS</Link>
