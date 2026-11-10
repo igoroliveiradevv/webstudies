@@ -1,5 +1,5 @@
 import { neon } from "@neondatabase/serverless";
-import { createHmac, randomUUID, timingSafeEqual } from "node:crypto";
+import { createHmac, timingSafeEqual } from "node:crypto";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
@@ -49,14 +49,6 @@ const validPayload = (data: unknown) => {
     typeof s.date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(s.date)
   );
 };
-
-function attachCookie(response: NextResponse, id: string) {
-  response.cookies.set(COOKIE, id + "." + sign(id), {
-    httpOnly: true, secure: process.env.NODE_ENV === "production",
-    sameSite: "lax", path: "/", maxAge: 60 * 60 * 24 * 365
-  });
-  return response;
-}
 
 export async function GET(request: NextRequest) {
   try {
