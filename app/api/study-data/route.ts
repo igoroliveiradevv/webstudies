@@ -60,16 +60,12 @@ function attachCookie(response: NextResponse, id: string) {
 
 export async function GET(request: NextRequest) {
   try {
-    const sql = await database();
     const existing = getUserId(request);
-    const id = existing ?? randomUUID();
-    const rows = await sql`SELECT data FROM ritmo_user_data WHERE user_id = ${id}::uuid`;
-    const response = NextResponse.json({
-      ok: true,
-      data: rows[0]?.data ?? { subjects: [], sessions: [] },
-      saved: Boolean(rows[0])
-    });
-    return existing ? response : attachCookie(response, id);
+    if (!existing) return NextResponse.json({ ok: false, error: "Faça login para acessar seus dados." }, { status: 401 });
+    const sql = await database();
+    const rows = await sql`SELECT d.data FROM ritmo_users u LEFT JOIN ritmo_user_data d ON d.user_id = u.id WHERE u.id = ${existing}::uuid AND u.verified = TRUE LIMIT 1`;
+    if (!rows.length) return NextResponse.json({ ok: false, error: "Faça login para acessar seus dados." }, { status: 401 });
+    return NextResponse.json({ ok: true, data: rows[0].data ?? { subjects: [], sessions: [] }, saved: Boolean(rows[0].data) });
   } catch {
     return NextResponse.json({ ok: false, error: "Não foi possível carregar seus dados." }, { status: 503 });
   }
@@ -82,6 +78,8 @@ export async function PUT(request: NextRequest) {
     const data: unknown = await request.json();
     if (!validPayload(data)) return NextResponse.json({ ok: false, error: "Dados inválidos." }, { status: 400 });
     const sql = await database();
+    const account = await sql`SELECT id FROM ritmo_users WHERE id = ${id}::uuid AND verified = TRUE LIMIT 1`;
+    if (!account.length) return NextResponse.json({ ok: false, error: "Faça login para salvar seus dados." }, { status: 401 });
     await sql`INSERT INTO ritmo_user_data (user_id, data, updated_at)
       VALUES (${id}::uuid, ${JSON.stringify(data)}::jsonb, NOW())
       ON CONFLICT (user_id) DO UPDATE SET data = EXCLUDED.data, updated_at = NOW()`;
