@@ -10,7 +10,7 @@ export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
     const email = String(body.email ?? "").trim().toLowerCase();
-    if (!/^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/.test(email) || email.length > 254) {
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || email.length > 254) {
       return NextResponse.json({ error: "Informe um e-mail válido." }, { status: 400 });
     }
     if (!process.env.RESEND_API_KEY) return NextResponse.json({ error: "Serviço de e-mail indisponível." }, { status: 503 });
