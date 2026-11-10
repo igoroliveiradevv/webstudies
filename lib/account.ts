@@ -29,7 +29,7 @@ export async function ensureAccountTables() {
     data JSONB NOT NULL DEFAULT '{"subjects":[],"sessions":[]}'::jsonb,
     updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
   )`;
-  await sql`CREATE TABLE IF NOT EXISTS ritmo_email_verifications (
+  await sql`CREATE TABLE IF NOT EXISTS ritmo_password_resets (\n    token_hash TEXT PRIMARY KEY,\n    user_id UUID NOT NULL REFERENCES ritmo_users(id) ON DELETE CASCADE,\n    expires_at TIMESTAMPTZ NOT NULL\n  )`;\n  await sql`CREATE TABLE IF NOT EXISTS ritmo_email_verifications (
     token_hash TEXT PRIMARY KEY,
     user_id UUID NOT NULL REFERENCES ritmo_users(id) ON DELETE CASCADE,
     expires_at TIMESTAMPTZ NOT NULL
