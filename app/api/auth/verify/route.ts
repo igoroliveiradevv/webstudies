@@ -9,13 +9,17 @@ export async function GET(request: NextRequest) {
   if (!/^[a-f0-9]{64}$/.test(token)) return NextResponse.redirect(new URL("/conta?erro=link_invalido", request.url));
   try {
     const sql = await ensureAccountTables();
-    const rows = await sql`SELECT v.user_id, u.legacy_id FROM ritmo_email_verifications v
+    const rows = await sql`SELECT v.user_id, v.pending_email, u.legacy_id FROM ritmo_email_verifications v
       JOIN ritmo_users u ON u.id = v.user_id
-      WHERE v.token_hash = ${hashToken(token)} AND v.expires_at > NOW() AND u.verified = FALSE LIMIT 1`;
+      WHERE v.token_hash = ${hashToken(token)} AND v.expires_at > NOW() AND (u.verified = FALSE OR v.pending_email IS NOT NULL) LIMIT 1`;
     if (!rows.length) return NextResponse.redirect(new URL("/conta?erro=link_expirado", request.url));
     const userId = String(rows[0].user_id);
     const legacyId = rows[0].legacy_id ? String(rows[0].legacy_id) : null;
-    await sql`UPDATE ritmo_users SET verified = TRUE WHERE id = ${userId}::uuid`;
+    try {
+      await sql`UPDATE ritmo_users SET verified = TRUE, email = COALESCE(${rows[0].pending_email ?? null}, email) WHERE id = ${userId}::uuid`;
+    } catch {
+      return NextResponse.redirect(new URL("/configuracoes?erro=email_em_uso", request.url));
+    }
     await sql`DELETE FROM ritmo_email_verifications WHERE user_id = ${userId}::uuid`;
     if (legacyId && legacyId !== userId) {
       await sql`INSERT INTO ritmo_user_data (user_id, data, updated_at)
