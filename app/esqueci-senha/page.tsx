@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
-import "./auth-extra.css";
+import "../conta/conta.css";
 
 export default function ForgotPasswordPage() {
   const [email,setEmail]=useState("");
