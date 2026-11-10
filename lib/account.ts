@@ -37,8 +37,10 @@ export async function ensureAccountTables() {
   await sql`CREATE TABLE IF NOT EXISTS ritmo_email_verifications (
     token_hash TEXT PRIMARY KEY,
     user_id UUID NOT NULL REFERENCES ritmo_users(id) ON DELETE CASCADE,
-    expires_at TIMESTAMPTZ NOT NULL
+    expires_at TIMESTAMPTZ NOT NULL,
+    pending_email VARCHAR(254)
   )`;
+  await sql`ALTER TABLE ritmo_email_verifications ADD COLUMN IF NOT EXISTS pending_email VARCHAR(254)`;
   return sql;
 }
 
