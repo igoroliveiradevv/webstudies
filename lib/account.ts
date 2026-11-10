@@ -23,6 +23,11 @@ export async function ensureAccountTables() {
     legacy_id UUID,
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
   )`;
+  await sql`CREATE TABLE IF NOT EXISTS ritmo_user_data (
+    user_id UUID PRIMARY KEY,
+    data JSONB NOT NULL DEFAULT '{"subjects":[],"sessions":[]}'::jsonb,
+    updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+  )`;
   await sql`CREATE TABLE IF NOT EXISTS ritmo_email_verifications (
     token_hash TEXT PRIMARY KEY,
     user_id UUID NOT NULL REFERENCES ritmo_users(id) ON DELETE CASCADE,
