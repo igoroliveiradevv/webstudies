@@ -51,7 +51,8 @@ export default function ContaPage() {
         {mode === "register" && <div className="passwordRules">A senha deve ter 12+ caracteres, letra maiúscula, minúscula, número e símbolo.</div>}
         {error && <div className="accountError">{error}</div>}
         {message && <div className="accountSuccess">{message}</div>}
-        <button className="accountSubmit" disabled={loading}>{loading ? "Aguarde..." : mode === "register" ? "Criar conta" : "Entrar"}</button>\n        {mode === "login" && <Link className="forgotLink" href="/esqueci-senha">Esqueci minha senha</Link>}
+        <button className="accountSubmit" disabled={loading}>{loading ? "Aguarde..." : mode === "register" ? "Criar conta" : "Entrar"}</button>
+        {mode === "login" && <Link className="forgotLink" href="/esqueci-senha">Esqueci minha senha</Link>}
       </form>
       <p className="accountFoot">Ao criar sua conta, seu histórico de estudos deste dispositivo será associado a ela.</p>
       <Link href="/" className="backHome">← Voltar ao Ritmo PAS</Link>
