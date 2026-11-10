@@ -1,31 +1,37 @@
 {
-  "title": "Fontes oficiais de provas do PAS 1 fornecidas para o Ritmo PAS",
+  "title": "Fontes oficiais de provas do PAS 1 usadas no banco de questões do Ritmo PAS",
   "source": "Cebraspe / UnB",
+  "questionBank": "data/pas1-questoes.json",
+  "totalQuestions": 335,
   "exams": [
     {
       "year": 2025,
       "part": 1,
       "url": "https://cdn.cebraspe.org.br/pas/arquivos/8C36DF6589D1F5827B9A1D75925A2DFD1E93E07956FD0047D440518F16CF85A9.pdf",
-      "status": "fonte cadastrada; questões ainda não importadas"
+      "answerKeyUrl": "https://cdn.cebraspe.org.br/pas/arquivos/A14B3A255BA981F159D618B2E1759DEEDED30BF26091F9F4692282EA273CBAB6.pdf",
+      "status": "30 itens objetivos importados (espanhol, francês e inglês)"
     },
     {
       "year": 2025,
       "part": 2,
       "url": "https://cdn.cebraspe.org.br/pas/arquivos/A9596F5E44456F918784D261DC925AFCBA2E006373513464C5B6F3B6A0F4230F.pdf",
-      "status": "fonte cadastrada; questões ainda não importadas"
+      "answerKeyUrl": "https://cdn.cebraspe.org.br/pas/arquivos/BEB9001FDCBAD8B695C179078180D33D97A6E8F6A13F73C3474953E388983A3C.pdf",
+      "status": "83 itens objetivos válidos importados; anulados e tipos B/D excluídos"
     },
     {
       "year": 2024,
       "part": 1,
       "url": "https://cdn.cebraspe.org.br/pas/arquivos/985_PAS1_001_01.pdf",
-      "status": "fonte cadastrada; questões ainda não importadas"
+      "answerKeyUrl": "https://cdn.cebraspe.org.br/pas/arquivos/Gab_Definitivo_985_PAS1_001_01.PDF",
+      "status": "109 itens objetivos válidos importados; anulados, tipos B/D e item com fórmula ilegível excluídos"
     },
     {
       "year": 2023,
       "part": 1,
       "url": "https://cdn.cebraspe.org.br/pas/arquivos/882_PAS1_001_01.pdf",
-      "status": "fonte cadastrada; questões ainda não importadas"
+      "answerKeyUrl": "https://cdn.cebraspe.org.br/pas/arquivos/Gab_Definitivo_882_PAS1_001_01.PDF",
+      "status": "113 itens objetivos válidos importados; anulados e tipos B/D excluídos"
     }
   ],
-  "note": "Os cadernos não incluem necessariamente os gabaritos definitivos. Importação de itens e associação dos gabaritos precisa ser feita separadamente."
+  "note": "Cada prova contém três opções de língua estrangeira na Parte 1; os três conjuntos foram importados separadamente. Itens discursivos (tipo D) e de cálculo (tipo B) não são compatíveis com o simulado objetivo. Itens anulados foram descartados. Alguns enunciados de interpretação dependem do texto-base do caderno original."
 }

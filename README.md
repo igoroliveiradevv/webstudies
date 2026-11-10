@@ -23,7 +23,9 @@ Abra http://localhost:3000.
 O projeto está conectado ao Neon Postgres pela integração da Vercel, com `DATABASE_URL` disponível em Preview e Production. A rota `/api/health/db` executa uma consulta real (`SELECT 1`) para verificar a conexão. As matérias e sessões do painel ainda ficam no armazenamento local do navegador: o banco está provisionado e conectado, mas a persistência dos dados de estudo no Postgres e a sincronização entre dispositivos ainda não foram implementadas.
 
 ## Questões do PAS
-A base inicial contém itens autorais de treino, identificados como demonstrativos. Os cadernos e gabaritos oficiais estão ligados na biblioteca do app. A importação integral dos itens precisa de extração e conferência dos PDFs oficiais, classificação por matéria e revisão de gabaritos; não marquei questões autorais como oficiais.
+O banco `data/pas1-questoes.json` contém 335 itens objetivos extraídos dos cadernos oficiais do PAS 1 de 2023, 2024 e 2025, com gabaritos definitivos do Cebraspe. As questões estão classificadas por matéria e tópico no simulado.
+
+Itens anulados, discursivos (tipo D) e de cálculo (tipo B) não entram no simulado. Alguns enunciados de interpretação dependem do texto-base do caderno original, que permanece disponível na biblioteca de fontes do app.
 
 Fontes para cadernos e gabaritos:
 - https://www.cebraspe.org.br/pas-unb/publicacoes/
@@ -35,7 +37,7 @@ Fontes para cadernos e gabaritos:
 
 O catálogo `data/pas1-acervo.json` reúne os 17 anos de provas e aponta para o acervo de cadernos/gabaritos e para o banco externo por ano.
 
-**Atenção:** catálogo de fontes não significa que os enunciados estejam importados para a tabela de questões. O acervo externo da UE informa 8.879 questões do PAS/UnB de 2005 a 2025, mas a consulta automatizada ao conteúdo foi bloqueada (HTTP 403). Por isso, não copiamos itens incompletos nem inventamos enunciados/gabaritos. O banco interno só deve receber questões integrais após extração e conferência do caderno e do gabarito definitivo, preservando a identificação do ano, etapa, idioma, tipo de item e eventual anulação.
+**Atenção:** o catálogo cobre 2009–2025, mas o banco interno já importou apenas os itens objetivos de 2023, 2024 e 2025 (335 questões). O acervo externo da UE informa 8.879 questões do PAS/UnB de 2005 a 2025, mas a consulta automatizada ao conteúdo foi bloqueada (HTTP 403). Itens incompletos, anulados, discursivos (tipo D) e de cálculo (tipo B) não entram no simulado; cada questão preserva ano, etapa, idioma, tipo e gabarito oficial.
 
 Fontes:
 - https://passeandounb.com/provas-anteriores-do-pas-1/

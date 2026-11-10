@@ -1,0 +1,6096 @@
+[
+  {
+    "id": 1,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 1,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Está prohibido tomar fotografías en el Templo Mayor, tanto en las salas del museo como en la zona arqueológica.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 2,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 2,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Se puede inferir que el museo permanece cerrado los lunes.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 3,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 3,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La modificación del plan original de la institución cultural se produjo al haber encontrado una obra monumental.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 4,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 4,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Los viajeros extranjeros que quieran visitar las instalaciones culturales y arqueológicas de forma gratuita deberán ir los domingos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 5,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 5,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Es posible inferir que el telescopio James Webb podrá ayudar a identificar la existencia de vida extraterrestre.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 6,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 6,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "El escudo usado para el telescopio James Webb lo protege del frío intenso.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 7,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 7,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "El telescopio comenzó a desarrollarse mucho antes de tener el nombre con el que se le conoce actualmente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 8,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 8,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "El componente reflector principal del telescopio está formado por varias piezas geométricas y recubierto con un material precioso que dificulta el reflejo de la luz infrarroja.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 9,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 9,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La separación entre el telescopio y nuestro planeta es comparable a la que existe entre la Luna y la Tierra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 10,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 10,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "Según la Constitución brasileña en vigor, el principio de igualdad ante la ley",
+    "options": [
+      "abarca tanto a los ciudadanos del país como a las personas extranjeras que residen en él.",
+      "beneficia únicamente a quienes poseen la nacionalidad brasileña.",
+      "se aplica de manera diferenciada según la condición económica del individuo.",
+      "excluye a los brasileños residentes en el exterior."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 11,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 1,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La Charte des Nations Unies a été adoptée par l’Assemblée générale de l’ONU en 1948.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 12,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 2,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Le droit international des droits humains traite des devoirs de chaque État envers les individus et groupes d’individus.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 13,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 3,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Le pronom « y », dans la dernière phrase du texte, fait référence au socle des droits humains.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 14,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 4,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Les fouilles archéologiques de l’ancienne cité de Tenochtitlán ont duré deux siècles.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 15,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 5,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Les rituels, les arts et l’architecture de l’Empire mexica sont encore inconnus avant la découverte du site archéologique.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 16,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 6,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La découverte de l’ancienne cité de Tenochtitlán a été prévue depuis le 21 février 1978.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 17,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 7,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Grâce à son immense miroir, le JWST a une sensibilité très supérieure à celle du téléscope antérieur.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 18,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 8,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Le JWST permet l’étude de galaxies formées à environ une centaine de millions d’années avant le Big Bang.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 19,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 9,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Le télescope spatial James Webb a été mis en service après juillet 2022.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 20,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 10,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "Dans « le James Webb Space Telescope (JWST) est en mesure d’explorer une palette beaucoup plus vaste de corps célestes » (second paragraphe), l’expression « une palette » peut être remplacée, sans perdre le sens, par",
+    "options": [
+      "une gamme.",
+      "une bande.",
+      "une partie.",
+      "un chemin."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 21,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 1,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "According to the text, the depicture of Coyolxauhqui’s dismembered body is present in the temple as a way of remembering the human sacrifices mentioned in the first paragraph.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 22,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 2,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "It would be reasonable to infer from the last sentence of the text that Coyolxauhqui was the goddess of the moon.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 23,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 3,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The last sentence of the text confirms the Aztec origin of the Templo Mayor and its mythic symbology.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 24,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 4,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The words “However” (last sentence of the first paragraph) and “though” (first sentence of the second paragraph) have a similar meaning in the text as each of them has the function of linking contrasting pieces of information.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 25,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 5,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The verbs “must” (first sentence of the second paragraph) and “can” (last sentence of the text) could be used interchangeably without altering the original meaning of the text.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 26,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 6,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "It is correct to conclude from the text that the Continuous Viewing Zones are part of the 39% of the sky mentioned in the first sentence of the text.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 27,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 7,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The text is clear when it states that the fact that Mars can be observed by Webb is due to the planet’s high temperature.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 28,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 8,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "In the first sentence of the second paragraph, the word “its” indicates that the “ability” mentioned after it refers to the Webb telescope.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 29,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 9,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The text states that the relation between the social function of land and the results of the allocation of land is objectively and explicitly defined in the articles of the Brazilian Constitution.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 30,
+    "exam": "2025-p1",
+    "year": 2025,
+    "part": 1,
+    "item": 10,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "According to the text, the Brazilian Constitution",
+    "options": [
+      "protects poverty.",
+      "opposes property.",
+      "determines the distribution of land to the poor.",
+      "establishes a variety of social rights."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 31,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 1,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Es posible inferir la imparcialidad en la autoría del texto.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 32,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 2,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Los pronombres «la» y «le» presentes en el enunciado «las demás la miran, la agasajan, le facilitan el camino», en el segundo párrafo, se refieren al mismo término «una voz».",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 33,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 3,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "El texto recurre a elementos metafóricos de la naturaleza para comentar la dificultad que presentan las fugas de Bach.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 34,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 4,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La presencia de cierto tipo de elemento que dé coherencia y sentido son importantes para el desorden en las fugas de Bach.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 35,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 5,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Es posible eliminar el adverbio «sí», en el enunciado «que sí tiene que existir un hilo conductor», sin que eso comprometa el significado del texto.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 36,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 6,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Se denominan estrellas frías a las que presentan unos colores más apagados y menos cálidos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 37,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 7,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Una cantidad mayor de helio y menor de hidrógeno en una estrella determina que está más cerca de su fin.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 38,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 8,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Se puede inferir que un setenta y cinco por ciento de las estrellas actúan de forma independiente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 39,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 9,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Es posible substituir «alrededor de» (en el segundo párrafo) por «en la proximidad» manteniendo el mismo sentido en el texto.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 40,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 10,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "De acuerdo con la viñeta, es posible inferir que, para alguna gente, las estrellas",
+    "options": [
+      "suelen ser personas.",
+      "son astros que están en el cielo.",
+      "se aprecian mejor durante la noche.",
+      "tienen diferentes tamaños y formas."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 41,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 1,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Les thèmes religieux ont été la première source du génie musical de Johann Sebastian Bach.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 42,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 2,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "À cause des tragédies vécues pendant sa vie, Bach a eu du mal à se consacrer à son art musical.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 43,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 3,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Les compositions de Bach peuvent nous transporter au royaume du langage universel et des émotions.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 44,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 4,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La production musicale de Bach ne possède aucune relation avec la musique européenne.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 45,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 5,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Clavier bien tempéré et Messe en si mineur sont des compositions de Bach qui réunissent la technique et l’émotion.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 46,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 6,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "L’étoile appelée Bételgeuse se trouve dans la constellation du taureau.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 47,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 7,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Ejnar Hertzsprung et Henry Norris Russell montrent que les étoiles les plus chaudes sont rouges.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 48,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 8,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La couleur d’une étoile est liée à sa température.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 49,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 9,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "On peut obtenir des informations sur la masse, la composition, l’âge ou la vitesse d’une étoile par son analyse spectrale.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 50,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 10,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "L’effet Zeeman indique",
+    "options": [
+      "le champ magnétique.",
+      "la hauteur des raies de l’étoile.",
+      "l’effet Doppler.",
+      "la couleur de l’étoile."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 51,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 1,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The word “however”, in the first sentence of the second paragraph, introduces information which contrasts with the mythical explanation of the universe presented in the first paragraph.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 52,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 2,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "With the text, the author wants to inform how human knowledge about the universe has developed through the centuries, and how much it has progressed in recent decades.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 53,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 3,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "By using the term “permanently crewed” (first sentence of the last paragraph), the author informs that there are always people aboard the space station.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 54,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 4,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "There is an opposition between “countless lifetimes” (second sentence of the first paragraph) and “In the span of a single lifetime” (first sentence of the third paragraph), which helps to indicate how fast science applied to the universe has developed lately.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 55,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 5,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "According to the text, science didn’t exist a few centuries ago, thus there was no word for scientist.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 56,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 6,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The author of the infographic shows evidence, in his text, of how Hans von Bülow gave The Well-Tempered Clavier collection the nickname “the old testament of music”.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 57,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 7,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "To make sense of the text inserted in the “DID YOU KNOW?” column, the reader has to be able to identify to whom the verbs of the sentences refer.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 58,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 8,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "According to the text, Bach knew about music composed in other regions of Europe because he used to travel to meet other composers.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 59,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 9,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "In the text of the “FAMOUS FOR” column, the author uses words connected with the world of classical music to impress the readers and convince them to listen to Bach.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 60,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 1,
+    "item": 10,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "According to the text, which type of composition Bach created in which many melodies are played simultaneously?",
+    "options": [
+      "Fugue.",
+      "Prelude.",
+      "Conterpoint.",
+      "Sponge."
+    ],
+    "answer": 2,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa C."
+  },
+  {
+    "id": 61,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 11,
+    "language": null,
+    "subject": "Português",
+    "topic": "Discurso de Txai Suruí",
+    "type": "CE",
+    "statement": "No primeiro parágrafo, o isolamento do trecho “o grande cacique Almir Suruí” entre vírgulas tem a finalidade de marcar uma inversão de termos no período.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 62,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 12,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Desenvolvimento sustentável",
+    "type": "CE",
+    "statement": "Os avanços tecnológicos e informacionais correspondem ao que a jovem indígena chamou em seu discurso de “utopia”, pois impedem promessas mentirosas e irresponsáveis, combatendo palavras vazias, por meio da verificação dos discursos e da massificação do engajamento de todos os povos na construção sustentável do futuro sobre a Terra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 63,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 13,
+    "language": null,
+    "subject": "Português",
+    "topic": "Discurso de Txai Suruí",
+    "type": "CE",
+    "statement": "No primeiro período do segundo parágrafo, a sequência de locuções verbais com verbo no gerúndio — “está esquentando”, “estão desaparecendo”, “estão morrendo” — sinaliza a continuidade dos acontecimentos mencionados, que denotam prejuízos para o planeta.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 64,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 14,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Crise climática",
+    "type": "CE",
+    "statement": "Em seu discurso, a jovem indígena relaciona as crises climáticas e ambientais aos caminhos tomados por uma parte da humanidade sobre a Terra, entretanto demonstra que acredita na possibilidade de mudanças, com as vozes indígenas sendo ouvidas e suas orientações filosóficas e culturais sendo adotadas para contribuir na transformação da realidade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 65,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 15,
+    "language": null,
+    "subject": "Português",
+    "topic": "Discurso de Txai Suruí",
+    "type": "CE",
+    "statement": "No sexto parágrafo, a opção pelo emprego da primeira pessoa do plural — “devemos” (...) “Nós temos” — após o emprego da terceira pessoa do plural — “estão” — é um recurso linguístico por meio do qual Txai Suruí convida os ouvintes/leitores de seu discurso a se unirem aos povos indígenas para, juntos, adiarem o fim do mundo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 66,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 16,
+    "language": null,
+    "subject": "História",
+    "topic": "Povos indígenas",
+    "type": "CE",
+    "statement": "Na América portuguesa, a escravização de indígenas era uma tarefa simples e foi bem-sucedida na maior parte das vezes, porque eles aceitaram passivamente a dominação pelos colonizadores.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 67,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 18,
+    "language": null,
+    "subject": "Português",
+    "topic": "Discurso de Txai Suruí",
+    "type": "MCQ",
+    "statement": "O sétimo parágrafo do texto se constrói com frases",
+    "options": [
+      "argumentativas.",
+      "expositivas.",
+      "injuntivas.",
+      "narrativas."
+    ],
+    "answer": 2,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa C."
+  },
+  {
+    "id": 68,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 20,
+    "language": null,
+    "subject": "Química",
+    "topic": "Mercúrio",
+    "type": "CE",
+    "statement": "Conforme a reação apresentada, no processo de demetilação, é observada a conservação da matéria, pois a soma das massas dos reagentes é igual à soma das massas dos produtos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 69,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 22,
+    "language": null,
+    "subject": "História",
+    "topic": "África e escravidão",
+    "type": "CE",
+    "statement": "O Brasil foi o principal destino de africanos escravizados nas Américas, sobretudo a partir do século XVII; assim, a forte presença africana na América portuguesa deu forma ao escravismo, instituição central no processo de formação da sociedade brasileira.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 70,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 23,
+    "language": null,
+    "subject": "História",
+    "topic": "África e escravidão",
+    "type": "CE",
+    "statement": "A chamada diáspora africana deu início ao processo de civilização, aculturamento e organização social e política dos povos que habitavam o continente africano no século XV.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 71,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 24,
+    "language": null,
+    "subject": "História",
+    "topic": "África e escravidão",
+    "type": "CE",
+    "statement": "O comércio atlântico de africanos escravizados alterou fortemente a organização política, social e econômica de diversos reinos e grupos sociais do continente africano.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 72,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 25,
+    "language": null,
+    "subject": "Português",
+    "topic": "O cerrado está morrendo",
+    "type": "CE",
+    "statement": "No texto O cerrado está morrendo, é estabelecida uma relação de oposição entre a maneira como são certificados os moradores do povoado de São José e como eles se identificam.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 73,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 26,
+    "language": null,
+    "subject": "História",
+    "topic": "Quilombos",
+    "type": "CE",
+    "statement": "O Quilombo dos Palmares, o mais conhecido movimento insurgente de escravizados da história do Brasil, existiu por cerca de 100 anos, constituindo um espaço africano no interior do domínio colonial português da América.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 74,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 27,
+    "language": null,
+    "subject": "História",
+    "topic": "Quilombos",
+    "type": "CE",
+    "statement": "A ocupação do território Kalunga, como no povoado de São José, evidencia um processo contínuo de construção identitária em que os moradores reconhecem sua origem quilombola, mesmo sem certificação oficial.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 75,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 29,
+    "language": null,
+    "subject": "Música",
+    "topic": "Canto II",
+    "type": "CE",
+    "statement": "Reforçando-se a influência da cultura africana, na gravação de Canto II foram utilizados somente instrumentos de percussão de origem africana para acompanhar a melodia, não havendo qualquer instrumento melódico ou harmônico.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 76,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 30,
+    "language": null,
+    "subject": "Português",
+    "topic": "Centro UnB Cerrado",
+    "type": "CE",
+    "statement": "O termo “estrategicamente” (primeiro período) reflete a opinião da autora do texto, e a motivação para o emprego desse termo encontra-se expressa no segundo período.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 77,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 31,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "A diversidade de hábitats dentro do cerrado contribui para a presença de uma ampla gama de espécies vegetais, especialmente árvores cujas copas formam uma cobertura contínua e fechada, característica típica da formação savânica encontrada no cerrado, mas que vem sofrendo alterações com o desmatamento crescente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 78,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 32,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "A maioria das espécies vegetais e animais do bioma cerrado pode ser encontrada também em outros biomas, como a Amazônia, pois o desmatamento do Cerrado possibilitou que grande número de espécies, principalmente as arbóreas, se dispersassem pelos diferentes biomas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 79,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 33,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Chapada dos Veadeiros",
+    "type": "CE",
+    "statement": "A topografia acidentada da Chapada dos Veadeiros constitui uma barreira natural que dificulta a agricultura extensiva e limita a ocupação humana em larga escala, o que favorece a preservação ambiental.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 80,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 34,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Chapada dos Veadeiros",
+    "type": "CE",
+    "statement": "Devido ao baixo nível de desenvolvimento econômico da região da Chapada dos Veadeiros, sua exploração econômica pouco afeta o meio ambiente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 81,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 35,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Chapada dos Veadeiros",
+    "type": "CE",
+    "statement": "As chapadas são um tipo de relevo que acumula grande quantidade de sedimentos erodidos provenientes de áreas de maior altitude e transportados, geralmente, pelas águas dos rios.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 82,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 36,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "O cerrado quase desapareceu durante o século XX principalmente devido à atividade madeireira, pois a madeira das árvores desse bioma é muito utilizada na fabricação de móveis, por ter alta durabilidade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 83,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 37,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Spodoptera albula",
+    "type": "MCQ",
+    "statement": "A interação ecológica envolvida no controle da espécie S. albula descrito no texto precedente, conforme os efeitos provocados pelas referidas toxinas, é denominada",
+    "options": [
+      "parasitismo.",
+      "predatismo.",
+      "mutualismo.",
+      "amensalismo."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 84,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 38,
+    "language": null,
+    "subject": "Português",
+    "topic": "Clima e cerrado",
+    "type": "CE",
+    "statement": "No primeiro período do texto, o segmento “a um regime climático” desempenha a função sintática de agente da passiva.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 85,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 39,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Clima",
+    "type": "CE",
+    "statement": "A distribuição de chuvas em Manaus é característica de clima equatorial.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 86,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 40,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Clima",
+    "type": "CE",
+    "statement": "A expressiva sazonalidade mostrada no climograma referente a Formosa, com ritmo anual de chuvas bem definido, é evidência da tropicalidade do clima na região.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 87,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 41,
+    "language": null,
+    "subject": "Química",
+    "topic": "Efeito estufa",
+    "type": "MCQ",
+    "statement": "A respeito do papel dos diferentes gases envolvidos no efeito estufa, ilustrado na figura precedente, assinale a opção correta.",
+    "options": [
+      "O dióxido de carbono (CO2) é um gás de efeito estufa proveniente, principalmente, do uso de fertilizantes nitrogenados.",
+      "Os gases fluorados, como o CFC, são extremamente eficazes na retenção de calor e, embora permaneçam na atmosfera por muito pouco tempo, o calor por eles retido pode ser convertido em energia elétrica.",
+      "O metano (CH4) é um gás muito eficiente em reter calor na atmosfera, sendo a pecuária uma das principais atividades emissoras desse gás.",
+      "O óxido nitroso (N2O) é liberado durante a fabricação de aerossóis e sua capacidade de reter calor permite seu emprego em baterias para geração de energia elétrica."
+    ],
+    "answer": 2,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa C."
+  },
+  {
+    "id": 88,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 42,
+    "language": null,
+    "subject": "História",
+    "topic": "Revolução Industrial",
+    "type": "CE",
+    "statement": "A Revolução Industrial alterou tanto o modo de produção artesanal na Inglaterra a partir do final do século XVIII, quando maquinário movido a combustíveis fósseis passaram a ser utilizados no processo produtivo, como impactou negativamente as relações de trabalho, razão pela qual os trabalhadores criaram novas formas de associação e de resistência.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 89,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 43,
+    "language": null,
+    "subject": "Música",
+    "topic": "Adam de la Halle",
+    "type": "CE",
+    "statement": "Apesar de a arte medieval estar principalmente fundamentada na arte sacra, a música Robin par l’ame, Adam de la Halle, é de caráter secular.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 90,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 44,
+    "language": null,
+    "subject": "Artes",
+    "topic": "Catedral de Reims",
+    "type": "CE",
+    "statement": "A estrutura arquitetônica das catedrais góticas, seus vitrais e sua decoração escultórica, ao ilustrarem passagens bíblicas, cumpriam uma função de educação religiosa, na medida em que possibilitavam a instrução dos fiéis, em sua maioria, analfabetos, por meio de elementos visuais.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 91,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 45,
+    "language": null,
+    "subject": "História",
+    "topic": "Poder real",
+    "type": "CE",
+    "statement": "Na França e na Inglaterra, desde a era medieval até parte da era moderna, havia a crença de que os reis tinham poder de cura por meio do toque, porém essa crença não era uma das fontes legitimadoras dos poderes reais.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 92,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 46,
+    "language": null,
+    "subject": "Artes",
+    "topic": "Catedral de Reims",
+    "type": "CE",
+    "statement": "Os vitrais circulares sobre o portal da fachada principal ou no transepto das igrejas góticas da Idade Média denominam-se flor circular, que, na Catedral de Notre Dame de Reims, se encontra sob um arco quebrado.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 93,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 47,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Razão áurea",
+    "type": "CE",
+    "statement": "O número φ satisfaz a equação φ = 1 + 1/φ e dessa equação conclui-se que φ² = φ + 1.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 94,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 48,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Razão áurea",
+    "type": "CE",
+    "statement": "As torres da catedral são paralelas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 95,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 49,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Razão áurea",
+    "type": "CE",
+    "statement": "O número φ é inferior a 1,5.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 96,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 50,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Razão áurea",
+    "type": "MCQ",
+    "statement": "Os números reais a, b e c estão, nessa ordem, em progressão",
+    "options": [
+      "aritmética de razão menor que zero.",
+      "aritmética de razão maior que zero.",
+      "geométrica de razão menor que um.",
+      "geométrica de razão maior que um."
+    ],
+    "answer": 2,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa C."
+  },
+  {
+    "id": 97,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 51,
+    "language": null,
+    "subject": "Música",
+    "topic": "Pequena fuga em sol menor",
+    "type": "CE",
+    "statement": "As figuras musicais que aparecem no trecho apresentado são: mínima, semínima, pausa de semínima, colcheia, pausa de colcheia e semicolcheia.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 98,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 52,
+    "language": null,
+    "subject": "Música",
+    "topic": "Pequena fuga em sol menor",
+    "type": "CE",
+    "statement": "No trecho apresentado, há três pentagramas e quatro vozes distintas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 99,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 53,
+    "language": null,
+    "subject": "Português",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "No fragmento da peça A Pena e a Lei, o emprego dos adjetivos “sabido” e “besta” na terceira fala de Cheiroso remete a um registro coloquial da língua portuguesa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 100,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 54,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Teatro",
+    "type": "CE",
+    "statement": "Embora os trechos apresentados integrem peças teatrais, caracterizadas como textos escritos para ser encenados, apenas Antígona é obra do gênero literário dramático.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 101,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 55,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Teatro",
+    "type": "CE",
+    "statement": "As tragédias gregas, por serem entretenimentos populares focados somente no sofrimento, foram irrelevantes para o desenvolvimento da filosofia e pouco contribuíram na constituição da cultura e do pensamento ocidental.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 102,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 56,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Teatro",
+    "type": "CE",
+    "statement": "A obra Antígona, de Sófocles, é uma tragédia escrita na Grécia Antiga, ao passo que A Pena e a Lei, de Ariano Suassuna, é uma farsa brasileira, inspirada na tradição do teatro medieval e escrita no século XX.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 103,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 57,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "Mencionado na última fala de Cheirosa no fragmento apresentado de A Pena e a Lei, mamulengo é um tipo de teatro popular de bonecos típico da região Nordeste do Brasil e caracterizado por gestos mecanizados e rápidos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 104,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 58,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "No trecho de A Pena e a Lei, a resposta de Cheiroso à pergunta “E a morte dos personagens?” expõe um exemplo de utilização da iluminação como recurso criativo para a encenação.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 105,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 59,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "Na obra de Suassuna, caracterizam-se como “sabidos” personagens pobres que conseguem tirar vantagens das situações, o que representa uma valorização da sabedoria de uma camada da população que, geralmente, é tida como incapaz, despreparada e pouco inteligente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 106,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 60,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "Em A Pena e a Lei, os personagens “sabidos” buscam mobilizar todos os personagens pobres da peça em um ato de revolta contra os personagens poderosos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 107,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 61,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "Ariano Suassuna era contrário à arte erudita e produziu obras em folhetos de cordel da cultura popular a fim de evitar seu consumo pela elite burguesa, pois acreditava na necessidade de fortalecimento da cultura dos marginalizados socialmente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 108,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 62,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "A diminuição das distâncias sociais torna-se visível e cômica em A Pena e a Lei quando os personagens subalternos chamam os poderosos por apelidos, como Vicente Borrote e Cabo Rosinha.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 109,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 63,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "Em A Pena e a Lei, a questão racial aparece, entre outras passagens, na representação de Benedito, personagem negro que é retratado de forma positiva e que demonstra ser mais esperto que os dois valentões da cidade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 110,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 64,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Fermentação",
+    "type": "CE",
+    "statement": "Na fabricação de pão, o crescimento da massa deve-se à ação do dióxido de carbono liberado durante a fermentação alcoólica.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 111,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 65,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Fermentação",
+    "type": "CE",
+    "statement": "Na produção de vinho, a fermentação alcoólica é realizada por bactérias aeróbicas, que convertem os açúcares das uvas produzindo 38 moléculas de ATP.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 112,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 66,
+    "language": null,
+    "subject": "Português",
+    "topic": "Antígona",
+    "type": "MCQ",
+    "statement": "Na organização sintática e na progressão referencial do fragmento da obra Antígona apresentado, um pronome que atua simultaneamente como elemento de coesão sequencial e referencial é",
+    "options": [
+      "“eu”, em “eu bem sei” (primeiro período).",
+      "“meu”, em “meu tempo” (segundo período).",
+      "“lo”, em “devo dizê-lo” (segundo período).",
+      "“que”, em “que me reservas” (quarto período)."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 113,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 67,
+    "language": null,
+    "subject": "Português",
+    "topic": "Cantiga de amigo",
+    "type": "CE",
+    "statement": "No segundo verso da última estrofe, é opcional o emprego do acento indicativo de crase no vocábulo “as” em ambas as suas ocorrências.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 114,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 68,
+    "language": null,
+    "subject": "Artes",
+    "topic": "Xilogravura",
+    "type": "CE",
+    "statement": "A xilogravura é uma técnica artística popular de reprodução de imagens e textos a partir de uma matriz de madeira entalhada cujas partes em relevo são entintadas para impressão sobre papel, à maneira de um carimbo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 115,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 69,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Literatura de cordel",
+    "type": "CE",
+    "statement": "Na literatura de cordel, devido à técnica artística empregada, cada folheto é único.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 116,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 70,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Literatura de cordel",
+    "type": "CE",
+    "statement": "No contexto histórico de produção do texto de Fernando Esquio, a voz feminina, que predomina nas cantigas de amigo, é parte de um movimento de afirmação das mulheres como escritoras no meio literário.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 117,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 71,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Literatura de cordel",
+    "type": "CE",
+    "statement": "No texto Vamos, irmã, vamos dormir, identifica-se a repetição da estrutura das frases em paralelo, o que é uma característica recorrente na composição das cantigas de amigo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 118,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 72,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Sereias e cantiga",
+    "type": "MCQ",
+    "statement": "Tanto na obra Sereias quanto na cantiga Vamos irmã, vamos dormir, observa-se",
+    "options": [
+      "a presença de seres mitológicos dos contextos em que as obras foram produzidas, com referência aos espaços do lago e do mar.",
+      "a representação de figuras femininas em meio à natureza e aos pássaros, aos quais estão ligadas.",
+      "a metáfora da submissão feminina, expressa, no texto, pela fragilidade das aves e, na imagem, pela dimensão da sereia em relação às demais figuras.",
+      "o contraste bem delimitado entre masculino e feminino, seja na descrição do amigo no poema, seja nos contornos das figuras na gravura."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 119,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 73,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Ilhas oceânicas",
+    "type": "MCQ",
+    "statement": "A formação de ilhas oceânicas decorre, principalmente, da",
+    "options": [
+      "erosão de montanhas submersas.",
+      "deposição de sedimentos, como areia transportada pelas correntes marítimas.",
+      "movimentação das placas tectônicas nas zonas de subducção entre continentes.",
+      "atividade vulcânica, quando magma sobe do manto terrestre e solidifica-se na superfície."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 120,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 75,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "As lições de Epicteto são baseadas na vida cotidiana durante a antiguidade grega e tratam de aspectos superficiais das ações humanas nesse contexto histórico, portanto são inaplicáveis à problematização filosófica do sentido da vida nos dias atuais.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 121,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 76,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Padre Antônio Vieira",
+    "type": "CE",
+    "statement": "Em seu sermão, Padre Antônio Vieira dirige-se aos peixes como estratégia para reforçar seu argumento de que os fiéis estão indiferentes à exploração que os colonos promovem na região, que constituiria, segundo o pregador, violação dos princípios cristãos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 122,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 77,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Padre Antônio Vieira",
+    "type": "CE",
+    "statement": "No fragmento de texto apresentado, a comparação dos seres humanos a peixes ressalta a inocência dos primeiros em relação aos atos violentos que possam ter praticado.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 123,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 81,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Curva de Lorenz",
+    "type": "CE",
+    "statement": "Um índice de Gini próximo de zero indica menos desigualdade social na população.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 124,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 82,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Origem da vida",
+    "type": "CE",
+    "statement": "A teoria da panspermia cósmica propõe que a vida na Terra se originou por um processo exógeno, com a chegada de componentes essenciais à Terra a partir do espaço, transportados por meteoritos ou cometas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 125,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 83,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Origem da vida",
+    "type": "CE",
+    "statement": "Os experimentos desenvolvidos por Miller-Urey, que simulavam as condições da atmosfera primitiva, evidenciaram a formação de aminoácidos, substâncias formadas pela combinação básica de hidrogênio, carbono, nitrogênio e oxigênio (além de outros átomos menos frequentes).",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 126,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 84,
+    "language": null,
+    "subject": "Química",
+    "topic": "Fosfina e amônia",
+    "type": "CE",
+    "statement": "O ângulo de ligação entre os átomos de hidrogênio e o átomo central é maior na amônia que na fosfina.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 127,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 85,
+    "language": null,
+    "subject": "Química",
+    "topic": "Fosfina e amônia",
+    "type": "CE",
+    "statement": "De acordo com a classificação dos compostos hidretos, CaH2, PH3 e SiH4 são compostos covalentes.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 128,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 86,
+    "language": null,
+    "subject": "Química",
+    "topic": "Fosfina e amônia",
+    "type": "CE",
+    "statement": "Em termos de energia de dissociação de ligações entre o hidrogênio e os elementos do grupo 15 da Classificação Periódica dos Elementos, a fosfina é um composto mais estável que a amônia.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 129,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 87,
+    "language": null,
+    "subject": "Química",
+    "topic": "Fuelimicina",
+    "type": "MCQ",
+    "statement": "A partir de 10 kg da fuelimicina A-FAME, para uma reação de combustão incompleta que produza 5% de monóxido de carbono (CO), a massa de CO formado é",
+    "options": [
+      "inferior a 1,5 kg.",
+      "igual ou superior a 1,5 kg e inferior a 1,6 kg.",
+      "igual ou superior a 1,6 kg e inferior a 1,7 kg.",
+      "igual ou superior a 1,7 kg e inferior a 1,8 kg."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 130,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 88,
+    "language": null,
+    "subject": "Física",
+    "topic": "Telescópio James Webb",
+    "type": "CE",
+    "statement": "A força resultante que o telescópio exerce sobre o sistema Sol-Terra é igual a −F.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 131,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 89,
+    "language": null,
+    "subject": "Física",
+    "topic": "Telescópio James Webb",
+    "type": "CE",
+    "statement": "A aceleração do telescópio, quando em movimento, não depende da sua massa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 132,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 90,
+    "language": null,
+    "subject": "Física",
+    "topic": "Telescópio James Webb",
+    "type": "CE",
+    "statement": "O momento total do sistema de três corpos se conserva e o centro de massa do sistema Sol-Terra permanecerá em repouso.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 133,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 91,
+    "language": null,
+    "subject": "Física",
+    "topic": "Telescópio James Webb",
+    "type": "CE",
+    "statement": "Em qualquer trajetória do telescópio, sua energia mecânica permanecerá constante ao longo do tempo, uma vez que as forças gravitacionais são conservativas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 134,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 92,
+    "language": null,
+    "subject": "Física",
+    "topic": "Pontos de Lagrange",
+    "type": "CE",
+    "statement": "O trabalho realizado pelas forças gravitacionais sobre o telescópio em movimento circular é nulo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 135,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 93,
+    "language": null,
+    "subject": "Física",
+    "topic": "Pontos de Lagrange",
+    "type": "CE",
+    "statement": "A distância da Terra até o centro de massa do sistema Sol-Terra é igual a M·r/(M+m).",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 136,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 94,
+    "language": null,
+    "subject": "Física",
+    "topic": "Pontos de Lagrange",
+    "type": "CE",
+    "statement": "Se o telescópio está no ponto estacionário L4, então sua distância do Sol é igual à sua distância da Terra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 137,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 95,
+    "language": null,
+    "subject": "Física",
+    "topic": "Pontos de Lagrange",
+    "type": "CE",
+    "statement": "O triângulo de vértices nos pontos L1, L3 e L4 é um triângulo retângulo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 138,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 99,
+    "language": null,
+    "subject": "Química",
+    "topic": "Kimchi e CO2",
+    "type": "CE",
+    "statement": "Considerando-se os elementos Ca2+, K+, P3− e Cl−, a ordem decrescente do raio iônico é: P3− > Cl− > K+ > Ca2+.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 139,
+    "exam": "2024-p1",
+    "year": 2024,
+    "part": 2,
+    "item": 100,
+    "language": null,
+    "subject": "Química",
+    "topic": "Kimchi e CO2",
+    "type": "CE",
+    "statement": "Se, em uma embalagem de kimchi, for gerado um excesso de 1.100 mg de CO2, será necessária uma quantidade de Ca(OH)2 superior a 2 gramas para consumir o gás carbônico gerado.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 140,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 1,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "El pueblo brasileño, obra de Darcy Ribeiro, fue producto de las últimas voluntades del autor, redactado poco antes de su fallecimiento.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 141,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 2,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Darcy fue el principal precursor del pensamiento decolonial que posteriormente se desarrollaría en toda América Latina.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 142,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 3,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "El pueblo brasileño es fruto de la humanidad y la afabilidad.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 143,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 4,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Algunas nociones de Darcy Ribeiro sobre esa mezcla de razas son, en la actualidad, objeto de discrepancias.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 144,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 5,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La obra en cuestión en el texto se realizó a fines del siglo XV.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 145,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 6,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "La fragilidad del material sobre el que se pintó La última cena fue una de las razones por las que permanece en su ubicación actual.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 146,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 7,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Esta obra de arte de Leonardo da Vinci, La última cena, se caracteriza por sus dimensiones, concretamente por ser estrecha y alargada.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 147,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 8,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "En momento alguno, en esta obra, Leonardo da Vinci objeta lo escrito en la Biblia.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 148,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 9,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "En la obra La última cena, Leonardo da Vinci pretende plasmar la reacción inmediata de los comensales tras una declaración inesperada del anfitrión.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 149,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 10,
+    "language": "Espanhol",
+    "subject": "Espanhol",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "De acuerdo con la viñeta presentada, es posible inferir que, pese a todo el conocimiento científico actual, las personas adultas que consideran que la Tierra es plana",
+    "options": [
+      "pertenecen, mayoritariamente, al continente europeo.",
+      "mantienen una visión infantil sobre ese asunto.",
+      "preferían, de pequeñas, los mapas a los globos terráqueos.",
+      "se plantean que la ciencia tiene que avanzar más en sus investigaciones."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 150,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 1,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Judas est représenté à la place de Jésus.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 151,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 2,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "L’adjectif féminin pluriel « bouleversées » (dans le deuxième paragraphe) peut être remplacé par contemplatives sans changer le sens de la phrase.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 152,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 3,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Léonard peint les apôtres en petits groupes de trois traduisant la surprise de leurs expressions.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 153,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 4,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Léonard y représente l’institution de l’Eucharistie.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 154,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 5,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Le Portugal de l’époque des découvertes du Nouveau Monde avait une population bien supérieure en nombre que les tribus Tupi enracinées au Brésil.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 155,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 6,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Les Indigènes issus des tribus Tupis rivalisaient entre eux et cela malgré leurs caractéristiques communes au niveau de la langue ou la culture.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 156,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 7,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Les Peuples Tupi ont pu échapper à la famine grâce à l’agriculture, qui leurs fournissait tubercules et fruits.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 157,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 8,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Darcy Ribeiro a pour objectif décrire les difficultés d’adaptation des tribus Tupis à côte du Brésil.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 158,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 9,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Le manioc cultivé par les Peuples Tupi au Brésil a retardé leur développement agricole car il s’agissait d’une plante nocive pour l’homme.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 159,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 10,
+    "language": "Francês",
+    "subject": "Francês",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "L’image présentée ci-dessus a pour objectif",
+    "options": [
+      "mettre en évidence la profondeur des arguments utilisés par les globistes aussi bien que par les platistes.",
+      "montrer que les platistes sont bien plus nombreux car ils n’ont pas besoin d’étudier la géographie de la Terre.",
+      "créer des centres de recherches sur des photographies du coucher de soleil.",
+      "confronter le lecteur aux fausses affirmations fondées sur la légèreté des arguments utilisés par les platistes."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 160,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 1,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "According to the text, Darcy Ribeiro was the most important Brazilian thinker of the last century.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 161,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 2,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "From the information given in the text, it is correct to assume that Darcy Ribeiro’s original book was an objective work, written in clear and direct language.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 162,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 3,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The text presents the English translation of Darcy Ribeiro’s work to potential readers who like different areas connected to social sciences and humanities.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 163,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 4,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "Although Darcy Ribeiro’s book is qualified as controversial, the text presents a positive evaluation both of the original book and of its translation into English.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 164,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 5,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The text argues that Darcy Ribeiro’s view of Brazil was very optimistic, as he considered Brazilian social groups to be in harmony and described the country as beautiful and luminous.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 165,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 6,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "For the text’s author, there is no other work of art that compares to da Vinci’s The Last Supper.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 166,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 7,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The passage “amazement, dismay and chaos” is used to indicate the different reactions of the apostles to Christ’s announcement of his death.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 167,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 8,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "In the second paragraph, the word “Their” refers to “Christ’s followers” but also to Christ himself.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 168,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 9,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "CE",
+    "statement": "The text presents some expressions in Italian, which, together with the information about the need to book the visit in advance, helps to convince its readers that visiting Da Vinci’s mural is a unique experience.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 169,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 1,
+    "item": 10,
+    "language": "Inglês",
+    "subject": "Inglês",
+    "topic": "Interpretação de texto",
+    "type": "MCQ",
+    "statement": "In the cartoon above,",
+    "options": [
+      "the two fish are discussing the goal of studying geography.",
+      "a theory about the Earth is carried to the fish’s reality.",
+      "one fish is defending a certain theory about the fishbowl.",
+      "the two fish agree that, in the past, the fishbowl was flat."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 170,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 11,
+    "language": null,
+    "subject": "Português",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "Em “que embelezam ainda mais os buritizais” (último período do terceiro parágrafo), o vocábulo “que” retoma “seus frutos”.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 171,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 12,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "Os latossolos (solos avermelhados) do bioma Cerrado são ricos em nutrientes, o que garante a sua fertilidade e, consequentemente, proporciona êxito na produção agropecuária, razão por que a população na região Centro-Oeste se mantém predominantemente rural.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 172,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 13,
+    "language": null,
+    "subject": "Português",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "Os sentidos e a correção gramatical do texto seriam preservados se, no terceiro período do terceiro parágrafo, a forma verbal “floresce” fosse flexionada no plural — florescem —, de maneira a ficar explícita sua concordância com “flores”.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 173,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 14,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "O “animal à espreita” descrito no segundo parágrafo do texto é o tamanduá-bandeira.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 174,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 15,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Desmatamento",
+    "type": "CE",
+    "statement": "O desmatamento nos biomas brasileiros, apontado no mapa, tende a afetar o clima, uma vez que, quanto menos florestas, maior a concentração de calor na superfície terrestre e menor a retenção da água da chuva.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 175,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 16,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "Da informação do texto de que o cerrado detém “5% das espécies de todo o planeta e 30% da biodiversidade nacional” conclui-se que as espécies do Brasil correspondem a 3/20 das espécies da Terra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 176,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 17,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "A manutenção de áreas de campo do Cerrado contribui para a sobrevivência do pequi e do carcará, respectivamente consumidor primário e consumidor quaternário da cadeia alimentar ilustrada a seguir.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 177,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 18,
+    "language": null,
+    "subject": "Português",
+    "topic": "Cerrado",
+    "type": "MCQ",
+    "statement": "No último parágrafo do texto, a expressão “esse tipo de savana” (último período) refere-se a",
+    "options": [
+      "“Planalto Central” (último período).",
+      "“o Cerrado” (primeiro período).",
+      "“os Pampas” (penúltimo período).",
+      "“sul do país” (penúltimo período)."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 178,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 19,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Desmatamento",
+    "type": "MCQ",
+    "statement": "Considere que, ao estudar o desmatamento no Cerrado brasileiro no período de 2001 a 2022, o pesquisador Carlos tenha percebido que, sendo x um número inteiro tal que 1 ≤ x ≤ 22, a função f(x) = x + 9,2 fornecia o percentual da área total desmatada no Brasil correspondente ao desmatamento do Cerrado no ano 2000 + x. Assim, utilizando-se essa função, tem-se f(21) = 30,2, o que é coerente com o dado apresentado no mapa. De acordo com essas informações, assinale a opção correta.",
+    "options": [
+      "O domínio da função definida por Carlos guarda correspondência com o período do estudo por ele realizado.",
+      "Qualquer número real no intervalo [0, 200] pode pertencer ao conjunto imagem da função definida por Carlos.",
+      "Do fato de que f(10) < f(11) é correto concluir que a área total desmatada no Brasil cresceu de 2010 para 2011.",
+      "Se, no período estudado por Carlos, durante três anos consecutivos, a área total desmatada anualmente no Brasil tiver decrescido, então a função f(x) também seria decrescente para os valores de x correspondentes a esses três anos."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 179,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 20,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Pequizeiro",
+    "type": "CE",
+    "statement": "Considere que a quantidade anual de frutos produzidos por um pequizeiro t anos após o seu plantio seja calculada pela expressão Q(t) = –2t2 + 108t – 576, para 10 ≤ t ≤ 45. Nesse caso, no ano de maior produtividade, o pequizeiro produziu mais de 800 frutos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 180,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 21,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Pequizeiro",
+    "type": "CE",
+    "statement": "Se a função Q(t) = – t2 + bt – 400 representa a quantidade de frutos produzidos pelo pequizeiro t anos após o seu plantio, então, o valor de b, nessa função, deve ser superior a 80.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 181,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 22,
+    "language": null,
+    "subject": "História",
+    "topic": "Carta de Caminha",
+    "type": "CE",
+    "statement": "Mesmo que Caminha, na carta ao rei Dom Manoel, garanta “não porei aqui mais do que aquilo que vi e me pareceu”, sua descrição da “terra nova” não pode ser considerada objetiva nem isenta de distorções, fantasias e conceitos etnocêntricos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 182,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 23,
+    "language": null,
+    "subject": "História",
+    "topic": "Carta de Caminha",
+    "type": "CE",
+    "statement": "A “terra nova” à qual Pero Vaz de Caminha se refere na carta era inóspita, o que facilitou o estabelecimento dos europeus no continente americano.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 183,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 24,
+    "language": null,
+    "subject": "História",
+    "topic": "Carta de Caminha",
+    "type": "CE",
+    "statement": "O fragmento de texto apresentado evidencia que, no processo de expansão dos impérios ibéricos, as esferas da religião e da política mantiveram-se claramente separadas, sem interação entre elas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 184,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 26,
+    "language": null,
+    "subject": "História",
+    "topic": "Amazônia",
+    "type": "CE",
+    "statement": "Os testemunhos arqueológicos e os testemunhos oriundos da tradição oral de comunidades indígenas da Amazônia brasileira são importantes para a escrita da história pré-colonial dessa região.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 185,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 27,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Povos indígenas",
+    "type": "CE",
+    "statement": "Julgar a cultura tupinambá a partir da sua comparação com a cultura ocidental é um exemplo de relativismo cultural.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 186,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 28,
+    "language": null,
+    "subject": "História",
+    "topic": "Povos indígenas",
+    "type": "CE",
+    "statement": "No Brasil colonial, os indígenas eram protegidos pela Igreja Católica e, por isso, foram poupados da escravização.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 187,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 29,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Povos indígenas",
+    "type": "CE",
+    "statement": "Os grupos indígenas brasileiros possuem diversas diferenças culturais entre si, contudo, para todos eles, a terra é um bem comum.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 188,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 30,
+    "language": null,
+    "subject": "História",
+    "topic": "Escravidão e diáspora",
+    "type": "CE",
+    "statement": "Para o desenvolvimento da economia colonial, os portugueses usaram largamente o trabalho escravo, explorando principalmente africanos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 189,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 31,
+    "language": null,
+    "subject": "História",
+    "topic": "Escravidão e diáspora",
+    "type": "CE",
+    "statement": "A escravização dos africanos foi uma invenção dos portugueses para atender aos interesses coloniais, visto que não existia essa prática no continente africano.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 190,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 32,
+    "language": null,
+    "subject": "História",
+    "topic": "Escravidão e diáspora",
+    "type": "CE",
+    "statement": "O movimento conhecido como diáspora africana foi caracterizado pela iniciativa dos africanos em migrar para as Américas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 191,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 33,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Chimamanda Adichie",
+    "type": "MCQ",
+    "statement": "Acerca do conteúdo da palestra mencionada, é correto afirmar que Chimamanda Adichie",
+    "options": [
+      "vê no reconhecimento de diferentes experiências culturais passo necessário à crítica aos estereótipos de uma história unidimensional.",
+      "expressa uma ideologia colonial que justifica a inferioridade da contribuição literária africana.",
+      "considera a África um continente de cultura homogênea, contrariando visões enraizadas no senso comum ocidental.",
+      "renega suas origens nigerianas, a fim de melhor integrar-se a um mercado editorial cada vez mais globalizado."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 192,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 34,
+    "language": null,
+    "subject": "Música",
+    "topic": "Rosa",
+    "type": "CE",
+    "statement": "No trecho musical apresentado, estão presentes o pentagrama e as cifras, que são os elementos que determinam o nome das notas na partitura musical.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 193,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 35,
+    "language": null,
+    "subject": "Música",
+    "topic": "Rosa",
+    "type": "CE",
+    "statement": "Na interpretação de Rosa pelo grupo Choro das Três, identificam-se duas partes diferentes, A e B, que são executadas na forma ABA.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 194,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 36,
+    "language": null,
+    "subject": "Português",
+    "topic": "Origem da linguagem",
+    "type": "CE",
+    "statement": "No texto, nota-se uma convergência entre o(a) autor(a) e a professora Maggie Tallerman no que diz respeito à hipótese de que o desenvolvimento da linguagem está estreitamente ligado a estratégias de sobrevivência dos primeiros seres humanos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 195,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 37,
+    "language": null,
+    "subject": "Português",
+    "topic": "Origem da linguagem",
+    "type": "CE",
+    "statement": "De acordo com o texto, a comunicação humana não se restringe a referir fatos ou coisas presentes no momento em que se dá o uso da linguagem.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 196,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 38,
+    "language": null,
+    "subject": "Português",
+    "topic": "Origem da linguagem",
+    "type": "CE",
+    "statement": "O texto aborda a distinção entre os neandertais e os outros animais, definindo-a pela utilização da linguagem corporal, que se compõe de um conjunto de gestos técnicos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 197,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 39,
+    "language": null,
+    "subject": "Português",
+    "topic": "Origem da linguagem",
+    "type": "CE",
+    "statement": "O texto adota uma perspectiva evolucionista, o que evidenciam, por exemplo, os seguintes trechos: ‘nossos parentes mais próximos e sem fala, os macacos’ e “Nossos ancestrais”.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 198,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 40,
+    "language": null,
+    "subject": "Português",
+    "topic": "Origem da linguagem",
+    "type": "MCQ",
+    "statement": "Cada uma das próximas opções apresenta uma proposta de reescrita para o seguinte trecho do penúltimo parágrafo do texto: “caso você encontre uma boa carcaça e precise informar os outros membros do grupo”. Assinale a opção em que a proposta de reescrita apresentada é gramaticalmente correta e coerente com as ideias do texto original.",
+    "options": [
+      "caso seje encontrada uma boa carcaça e se precise informar os outros membros do grupo",
+      "caso seja encontrada uma boa carcaça e for preciso informar os outros membros do grupo",
+      "caso alguém encontra uma boa carcaça e precisa informar os outros membros do grupo",
+      "caso se encontre uma boa carcaça e seja preciso informar os outros membros do grupo"
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 199,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 41,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A última ceia",
+    "type": "CE",
+    "statement": "Na obra A última ceia, a perspectiva linear reforça o ideal humanista e articula arte e matemática.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 200,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 42,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A última ceia",
+    "type": "CE",
+    "statement": "A técnica do afresco, aplicada na obra A última ceia, foi criada por artistas renascentistas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 201,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 44,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Pão e vinho",
+    "type": "CE",
+    "statement": "Na produção do pão, observa-se um caso de fermentação lática, já que o carboidrato presente na massa é convertido em CO2, que auxilia no crescimento da massa, e em água, que evapora quando o pão assa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 202,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 45,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Pão e vinho",
+    "type": "CE",
+    "statement": "O vinho é produzido com base em um processo de fermentação alcoólica no qual as bactérias presentes no suco da uva esmagada convertem o açúcar desse suco em CO2 e álcool.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 203,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 46,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Pão e vinho",
+    "type": "CE",
+    "statement": "Nos pães feitos com farinha de trigo, o glúten forma uma rede de proteínas que proporciona elasticidade à massa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 204,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 47,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Trigo",
+    "type": "CE",
+    "statement": "O trigo, que compõe a matéria-prima do pão e de diversos outros alimentos, é uma commodity, ou seja, um produto agrícola de consumo de larga escala, e o Brasil é autossuficiente na sua produção.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 205,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 48,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A última ceia e A pena e a lei",
+    "type": "CE",
+    "statement": "Os figurinos traduzem contextos culturais e sociais da época representada em ambas as obras, o que permite realçar os papéis dos personagens e abordar os diferentes simbolismos expressos nas obras.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 206,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 49,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A última ceia e A pena e a lei",
+    "type": "CE",
+    "statement": "Em ambas são representadas situações simbólicas do cristianismo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 207,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 50,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A última ceia e A pena e a lei",
+    "type": "CE",
+    "statement": "Os personagens das duas obras são retratados como pessoas comuns, sem indicação de sua santidade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 208,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 51,
+    "language": null,
+    "subject": "Artes",
+    "topic": "A última ceia e A pena e a lei",
+    "type": "CE",
+    "statement": "Os cenários nas duas obras têm a mesma representação, simples e minimalistas, distanciando-se de aspectos religiosos e se aproximando do contexto do comportamento humano, para dar realismo aos temas abordados nas obras.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 209,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 52,
+    "language": null,
+    "subject": "Química",
+    "topic": "Vinho e etanol",
+    "type": "CE",
+    "statement": "Técnicas experimentais, como a destilação, contribuíram para o desenvolvimento da química enquanto ciência.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 210,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 53,
+    "language": null,
+    "subject": "Química",
+    "topic": "Vinho e etanol",
+    "type": "CE",
+    "statement": "O etanol é uma fonte de energia não renovável e sua produção a partir da cana-de-açúcar é motivada pela redução da poluição e limitação do aquecimento global.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 211,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 54,
+    "language": null,
+    "subject": "Química",
+    "topic": "Vinho e etanol",
+    "type": "CE",
+    "statement": "Sabendo-se que a água gaseificada é obtida a partir da água pelo processo de adição de gás carbônico sob pressão, infere-se que esse processo aumenta a solubilidade do gás carbônico, em decorrência de intensas interações intermoleculares.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 212,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 55,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "A educação pode transformar pessoas e sua postura frente aos próprios erros.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 213,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 56,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "O pensamento de Epicteto faz parte da tradição estoica e seus ensinamentos priorizam a ética.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 214,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 57,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "Quem já se educou acusa a si próprio quando acusa os outros.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 215,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 58,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Antígona",
+    "type": "MCQ",
+    "statement": "Na trama, Antígona enterra",
+    "options": [
+      "sua irmã, cumprindo as ordens de Édipo, logo não pratica crime algum.",
+      "seu pai, contrariando as ordens de Creonte, logo pratica um crime.",
+      "sua mãe, cumprindo as ordens de Édipo, logo não pratica crime algum.",
+      "seu irmão, contrariando as ordens de Creonte, logo pratica um crime."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 216,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 59,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Ilhas oceânicas",
+    "type": "CE",
+    "statement": "O uso do lastro (tanques de água) de navios para introduzir espécies exóticas no arquipélago de São Pedro e São Paulo é a melhor estratégia para equilibrar o ecossistema e aumentar o lucro na atividade pesqueira.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 217,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 60,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Ilhas oceânicas",
+    "type": "CE",
+    "statement": "O “status de proteção” à pesca submarina deveria incluir a cultura do consumo consciente, seja na pesca amadora, seja na comercial, com o estabelecimento de regras que definissem, por exemplo, o tamanho mínimo dos peixes que podem ser pescados e a proibição ou restrição da pesca nas épocas de reprodução dos peixes.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 218,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 61,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Ilhas oceânicas",
+    "type": "CE",
+    "statement": "O processo realizado pelos peixes-limpadores, conhecido como bioincrustação, é explorado pelos pescadores como ação de sustentabilidade para reduzir a poluição causada pelas embarcações e preservar o ciclo de vida das diferentes espécies de peixes marinhos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 219,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 62,
+    "language": null,
+    "subject": "Artes",
+    "topic": "J. Borges",
+    "type": "CE",
+    "statement": "O artista J. Borges produz cordéis nos quais divulga suas criações artísticas, a exemplo da obra apresentada.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 220,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 63,
+    "language": null,
+    "subject": "Artes",
+    "topic": "J. Borges",
+    "type": "CE",
+    "statement": "A técnica aplicada à obra apresentada caracteriza-se por proporcionar a concepção de um produto artístico original e unitário.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 221,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 64,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Esfericidade da Terra",
+    "type": "CE",
+    "statement": "A teoria sobre a esfericidade da Terra tem origem no pensamento aristotélico, na Grécia antiga, e pôde ser comprovada na contemporaneidade por meio de imagens de satélites e pelo sistema de posicionamento global (GPS — do inglês global positioning system).",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 222,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 65,
+    "language": null,
+    "subject": "Física",
+    "topic": "Terra",
+    "type": "CE",
+    "statement": "Uma das principais predições de Newton, o “achatamento da Terra nos polos” deve-se ao fato de que, quando o planeta gira, a sua massa tende a se acumular, por inércia, na linha do Equador.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 223,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 66,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Ciência e pseudociência",
+    "type": "CE",
+    "statement": "A despeito do que sugerem os terraplanistas, a impossibilidade de reproduzir o Big Bang não deslegitima as teorias científicas acerca da origem do universo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 224,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 67,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Ciência e pseudociência",
+    "type": "CE",
+    "statement": "Somente conhecimentos que permanecem comprovados com base em evidências empíricas podem ser considerados científicos, por isso, a teoria de Newton foi completamente descartada quando Einstein reformulou a ideia newtoniana de espaço-tempo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 225,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 69,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Origem da vida",
+    "type": "CE",
+    "statement": "A teoria da panspermia cósmica postula que os primeiros seres surgiram nos oceanos e realizavam quimiossíntese a partir de compostos inorgânicos simples.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 226,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 70,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Terraplanismo",
+    "type": "CE",
+    "statement": "A integridade das declarações do terraplanista que constam no primeiro parágrafo do texto decorre da credibilidade das fontes utilizadas para defender a ideia de que a Terra é plana, o que fica evidenciado na menção a aspectos econômicos, religiosos e científicos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 227,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 71,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Redi",
+    "type": "CE",
+    "statement": "Os experimentos de Redi, realizados com pedaços de carne no século XVII, foram fundamentais para corroborar a teoria da biogênese.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 228,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 73,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "O poema se organiza com base na expressão poética objetivista, sem expressividade lírica em primeira pessoa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 229,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 74,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "O poema adéqua-se à estética literária do Trovadorismo, pela forma como retrata o ambiente natural brasileiro.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 230,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 75,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "Entende-se da leitura do terceiro e do quarto versos da primeira estrofe do poema que o verbo deixar, em “os gabões deixei grosseiros”, tem o mesmo sentido de abandonar.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 231,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 76,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "No poema, o sujeito lírico desvaloriza a natureza que por ele mesmo é descrita.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 232,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 77,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "O poema pode ser classificado como um soneto, haja vista o seu esquema de rimas, de métrica e de estrofação.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 233,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 78,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "Há no poema uma expectativa de que a vida simples do ambiente rural contribua para que a tristeza sentida pelo sujeito lírico seja superada.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 234,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 79,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "CE",
+    "statement": "No primeiro verso do poema, o termo “montes” funciona como complementos do verbo “ver”, pois indica aquilo que o sujeito lírico afirma enxergar no momento em que fala.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 235,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 80,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Cláudio Manoel da Costa",
+    "type": "MCQ",
+    "statement": "Considerando-se o estilo de época a que o poema se vincula, é correto afirmar que os nomes “Almendro” e “Corino” referem-se",
+    "options": [
+      "a personagens mitológicos da Grécia antiga.",
+      "aos montes aos quais o sujeito lírico dirige o seu discurso.",
+      "a dois membros da Corte de onde retorna o sujeito lírico.",
+      "aos “companheiros” do sujeito lírico, transfigurados em pastores árcades."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 236,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 81,
+    "language": null,
+    "subject": "Música",
+    "topic": "Adam de la Halle",
+    "type": "CE",
+    "statement": "Sabendo-se que polifonia homofônica refere-se a uma única melodia para uma música, porém cantada e tocada por diversos instrumentos, às vezes em alturas diferentes, e que homorrítmica refere-se a um único ritmo, é correto classificar a música apresentada no vídeo como polifonia homofônica e homorrítmica.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 237,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 82,
+    "language": null,
+    "subject": "Música",
+    "topic": "Adam de la Halle",
+    "type": "CE",
+    "statement": "Em uma das cenas do referido vídeo, a música é tocada em dois saxofones.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 238,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 83,
+    "language": null,
+    "subject": "Química",
+    "topic": "Mumificação",
+    "type": "CE",
+    "statement": "Infere-se do texto que os antigos egípcios eram capazes de manipular e transformar certos materiais, podendo ser considerados os precursores da alquimia.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 239,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 85,
+    "language": null,
+    "subject": "Química",
+    "topic": "Mumificação",
+    "type": "CE",
+    "statement": "Sabendo-se que os antigos egípcios dominavam técnicas que permitiam isolar certos metais e produzir ligas metálicas, conclui-se que a separação de determinadas misturas era de conhecimento dos antigos egípcios.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 240,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 86,
+    "language": null,
+    "subject": "Química",
+    "topic": "Mumificação",
+    "type": "CE",
+    "statement": "O busto de Nefertiti, assim como toda matéria, é constituído por estruturas maciças chamadas de átomos; essa característica é a base do conhecimento atual do modelo atômico que explica a estrutura do átomo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 241,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 87,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "População idosa",
+    "type": "CE",
+    "statement": "O aumento da expectativa de vida no Brasil não foi acompanhado de políticas de salvaguarda à população idosa, visto que inexiste legislação no país que priorize a população com idade acima de 60 anos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 242,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 88,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Revoluções industriais",
+    "type": "CE",
+    "statement": "As revoluções industriais proporcionaram melhorias nas condições sanitárias das cidades e no acesso à educação e à saúde, porém todo esse conjunto de políticas de bem-estar não foi suficiente para eliminar as desigualdades socioespaciais, principalmente nos países do Sul global, em razão da forma como isso interferiu na dinâmica populacional urbana.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 243,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 89,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "População",
+    "type": "CE",
+    "statement": "Considere, além das informações do texto, que, a cada ano a partir de 2050, a quantidade mundial de pessoas aumente da seguinte forma: • em progressão geométrica com razão q > 1, no caso de crianças de 0 a 4 anos de idade; • em progressão aritmética com razão r = 1.000.000, no caso de pessoas com idade superior a 65 anos. Nesse cenário hipotético, sempre haverá no mundo menos crianças de 0 a 4 anos que pessoas com idade acima de 65 anos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 244,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 91,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "As rampas de acessibilidade serão mais seguras quanto menor for o coeficiente de atrito estático entre as rodas de uma cadeira e a superfície da rampa, o que também minimiza a dissipação da energia mecânica durante o movimento do cadeirante sobre a rampa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 245,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 92,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "Desconsiderando-se os efeitos dissipativos, o trabalho realizado por um cadeirante ao subir uma rampa de acessibilidade independe da inclinação da rampa, desde que mantida a variação de altura entre o ponto de partida e o de chegada.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 246,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 93,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "Em uma rampa de acessibilidade, a velocidade final da cadeira de rodas, descendo sem freios e sem controle, será proporcional ao quadrado da altura do desnível da rampa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 247,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 94,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "Para uma rampa de acessibilidade com h = 20 cm e em conformidade com a NBR 9050/2015, não haverá deslizamento da cadeira de rodas se o coeficiente de atrito estático entre a rampa e a roda da cadeira for igual a 0,10.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 248,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 95,
+    "language": null,
+    "subject": "Português",
+    "topic": "Acessibilidade",
+    "type": "CE",
+    "statement": "No último período do texto de Laezia Bezerra, o segmento “aqueles que enfrentam problemas de saúde” restringe o sentido do termo “Idosos”.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 249,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 96,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "Uma rampa de acessibilidade com c = 6 m e h = 30 cm atende aos padrões estabelecidos na NBR 9050/2015.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 250,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 97,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "Na tabela apresentada, os valores (1:10), (1:12), (1:16) e (1:20) indicam que quanto mais alto for o desnível, maior deve ser a razão entre a altura do desnível e o comprimento da projeção horizontal dos segmentos de rampa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 251,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 98,
+    "language": null,
+    "subject": "Física",
+    "topic": "Rampas de acessibilidade",
+    "type": "CE",
+    "statement": "Se for necessário construir uma rampa com um desnível igual a 40 cm, então o valor de c deverá ser superior a 4 m.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 252,
+    "exam": "2023-p1",
+    "year": 2023,
+    "part": 2,
+    "item": 99,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Acessibilidade",
+    "type": "CE",
+    "statement": "A falta de acessibilidade a espaços públicos e privados nas cidades brasileiras pode ser considerada uma forma de exclusão e segregação, pois restringe a mobilidade e o direito de todos os cidadãos aos espaços urbanos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 253,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 12,
+    "language": null,
+    "subject": "História",
+    "topic": "Colonização e Palmares",
+    "type": "CE",
+    "statement": "Até o século XVII, a colonização portuguesa na América estava, em grande medida, baseada na escravização dos povos indígenas, que resistiam a esse processo, o que era, para os portugueses, uma dificuldade para a efetivação da colonização.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 254,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 13,
+    "language": null,
+    "subject": "História",
+    "topic": "Colonização e Palmares",
+    "type": "CE",
+    "statement": "Os colonizadores portugueses levaram mais de um século para transformar a ocupação do território em exploração econômica, centrada, a partir do século XVII, no tráfico transatlântico de pessoas oriundas do continente africano.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 255,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 14,
+    "language": null,
+    "subject": "Música",
+    "topic": "Palmares 1999",
+    "type": "CE",
+    "statement": "No vídeo de referência de Palmares 1999, é possível identificar os instrumentos musicais bateria, baixo elétrico, um dueto de instrumentos de sopro formado por trompete e trombone, guitarra, teclado e percussão, além da presença do vocalista e de três mulheres como backing vocals.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 256,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 15,
+    "language": null,
+    "subject": "História",
+    "topic": "Escravidão e diáspora africana",
+    "type": "CE",
+    "statement": "Visto que a colonização portuguesa na América se consolidou por meio do tráfico transatlântico de indivíduos nativos do continente africano, é correto afirmar que a sociedade em formação no território que viria a se tornar o Brasil era definida por somente uma língua e uma cultura: a africana.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 257,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 16,
+    "language": null,
+    "subject": "História",
+    "topic": "Escravidão e diáspora africana",
+    "type": "CE",
+    "statement": "Em diferentes partes do mundo atlântico, a chamada diáspora africana, violento processo de imigração forçada de milhares de pessoas originárias do continente africano, resultou na aculturação dos sujeitos escravizados, que se tornaram pessoas sem quaisquer objetivos ou projetos de vida e sem capacidade de ação política autônoma.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 258,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 17,
+    "language": null,
+    "subject": "História",
+    "topic": "Escravidão e diáspora africana",
+    "type": "CE",
+    "statement": "Embora a escravidão não seja uma invenção moderna, a transferência forçada de milhares de pessoas escravizadas do continente africano para as colônias europeias nas Américas é um dos elementos definidores da chamada Era Moderna.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 259,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 19,
+    "language": null,
+    "subject": "Música",
+    "topic": "Palmares 1999",
+    "type": "CE",
+    "statement": "Palmares 1999 é uma música no estilo reggae, que é de origem caribenha e tem como características um ritmo lento em um compasso quaternário, com acentuação no segundo e no quarto tempos, que são os tempos fracos do compasso, feita geralmente pela guitarra, e com uma linha de baixo melódica de certa complexidade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 260,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 20,
+    "language": null,
+    "subject": "Português",
+    "topic": "Carta de Caminha",
+    "type": "MCQ",
+    "statement": "O trecho reproduzido da carta de Caminha",
+    "options": [
+      "revela um olhar etnocêntrico dos portugueses na medida em que eles não compreendem o valor da “pedra ruim” para o indígena, o que evidencia o início do estabelecimento de relações econômica e politicamente assimétricas.",
+      "revela uma relação de reciprocidade igualitária baseada na troca justa entre uma “pedra ruim” e um “sombreiro velho”, o que evidencia respeito mútuo e equilíbrio nas relações de troca entre indígenas e portugueses.",
+      "indica o reconhecimento da alteridade indígena pelos portugueses, visto que eles demonstram curiosidade a respeito das práticas culturais indígenas e dos significados atribuídos aos objetos, a qual é expressa no interesse em recolher artefatos para a Coroa portuguesa.",
+      "indica que tanto os indígenas quanto os portugueses reconheceram, ao entrar em contato uns com os outros, a existência de valores universais compartilhados, os quais facilitaram a comunicação, a convivência e as trocas entre esses dois grupos."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 261,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 21,
+    "language": null,
+    "subject": "História",
+    "topic": "Templo Mayor",
+    "type": "CE",
+    "statement": "A arquitetura pré-colombiana mesoamericana se caracteriza por complexos arquitetônicos piramidais de grandes proporções.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 262,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 22,
+    "language": null,
+    "subject": "História",
+    "topic": "Templo Mayor",
+    "type": "CE",
+    "statement": "O Templo Mayor de Tenochtitlán é um complexo arquitetônico que inclui fortificações piramidais para a defesa militar em períodos de guerra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 263,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 23,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Templo Mayor",
+    "type": "CE",
+    "statement": "Se, a cada reconstrução, a altura do templo tiver aumentado de acordo com uma progressão aritmética, então a diferença de altura entre a primeira fase da construção e a sua versão final é de 29 metros.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 264,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 24,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Templo Mayor",
+    "type": "CE",
+    "statement": "Os ângulos correspondentes aos vértices D e C na seção transversal do Templo Mayor medem, respectivamente, 120° e 135°.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 265,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 25,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Templo Mayor",
+    "type": "CE",
+    "statement": "A área da seção transversal da terceira fase de construção do Templo Mayor é superior a 3.570 m2.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 266,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 26,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Templo Mayor",
+    "type": "CE",
+    "statement": "Se, em um lote específico com 1.400 artefatos, os arqueólogos classificarem 540 deles como objetos cerimoniais, 400 como objetos para a guerra e o restante como fragmentos de cerâmica, então os fragmentos de cerâmica corresponderão a uma quantia inferior a 33% do total de artefatos do lote.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 267,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 27,
+    "language": null,
+    "subject": "Artes",
+    "topic": "Busto de Nefertiti",
+    "type": "CE",
+    "statement": "O escultor do busto de Nefertiti aplicou à obra a regra da frontalidade da arte egípcia, o que decorre principalmente na sequência harmoniosa de cores que ele escolheu para os ornamentos da figura.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 268,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 28,
+    "language": null,
+    "subject": "Química",
+    "topic": "Busto de Nefertiti",
+    "type": "CE",
+    "statement": "Ambas as substâncias CaO e CaSO4∙2H2O contêm um metal alcalinoterroso em sua constituição.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 269,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 29,
+    "language": null,
+    "subject": "Química",
+    "topic": "Busto de Nefertiti",
+    "type": "CE",
+    "statement": "O óxido de cálcio da cal e o sulfato de cálcio di-hidratado do gesso são substâncias polar e apolar, respectivamente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 270,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 30,
+    "language": null,
+    "subject": "Artes",
+    "topic": "Busto de Nefertiti",
+    "type": "CE",
+    "statement": "Na arte egípcia antiga, a representação do faraó e de sua esposa devia retratar o caráter divino dos personagens por meio de uma expressão distante e atemporal conferida ao olhar das figuras.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 271,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 31,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Igualdade",
+    "type": "CE",
+    "statement": "A tradição filosófica corrobora o entendimento expresso no texto constitucional, haja vista a reiterada afirmação, ainda pelos pensadores antigos e medievais, da igualdade entre mulheres e homens.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 272,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 32,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Gênero e direitos",
+    "type": "CE",
+    "statement": "Na canção Sol no peito, a preocupação da mãe expressa no verso “Oi filho, você tá vivo? Me conta como foi seu dia?” está fundada no fato de que o Brasil, de formação histórica patriarcal, é um dos países em que mais ocorrem atos de violência contra pessoas transgênero.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 273,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 33,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Gênero e direitos",
+    "type": "CE",
+    "statement": "A canção Sol no peito reafirma que o reconhecimento das diferenças é condição fundamental para a construção da igualdade de direitos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 274,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 34,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Gênero e direitos",
+    "type": "CE",
+    "statement": "Conclui-se do verso “Só quero mudar de nome”, da canção Sol no peito, e do trecho apresentado do art. 5.º da Constituição Federal de 1988 que as pessoas transgênero estão impedidas de trocar de nome oficialmente no Brasil.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 275,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 35,
+    "language": null,
+    "subject": "Sociologia",
+    "topic": "Gênero e direitos",
+    "type": "CE",
+    "statement": "A luta e a organização do movimento LGBTQIA+ visa, entre outros objetivos, incluir na Constituição Federal de 1988 menção às pessoas transgênero, visto que a redação do art. 5.º, conforme apresentado no trecho precedente, não é inclusiva em relação a essas pessoas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 276,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 36,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Direitos humanos",
+    "type": "CE",
+    "statement": "A efetivação dos direitos humanos depende do reconhecimento da alteridade e do respeito às identidades diversas, pois a garantia da dignidade humana requer o acolhimento do outro em sua diferença.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 277,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 37,
+    "language": null,
+    "subject": "Português",
+    "topic": "Constituição e canção",
+    "type": "CE",
+    "statement": "Seriam preservados o sentido e a correção gramatical do caput do art. 5.º da Constituição Federal de 1988 caso o trecho “do direito à vida, à liberdade, à igualdade, à segurança e à propriedade” fosse assim reescrito: do direito à vida, a liberdade, a igualdade, a segurança e a propriedade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 278,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 38,
+    "language": null,
+    "subject": "Português",
+    "topic": "Constituição e canção",
+    "type": "CE",
+    "statement": "O último verso desse trecho da canção apresenta elementos do português brasileiro coloquial.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 279,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 39,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Identidade de gênero",
+    "type": "CE",
+    "statement": "É própria dos seres humanos a possibilidade de autodeterminação, portanto a identidade de gênero pode ser distinta da identidade sexual biológica.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 280,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 40,
+    "language": null,
+    "subject": "História",
+    "topic": "Antigo regime",
+    "type": "CE",
+    "statement": "Os cinco livros das Ordenações Filipinas seguiam os mesmos preceitos jurídicos das constituições modernas, de modo que noções como igualdade civil e liberdade eram princípios organizadores do antigo regime português.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 281,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 41,
+    "language": null,
+    "subject": "História",
+    "topic": "Antigo regime",
+    "type": "CE",
+    "statement": "Nos antigos regimes, a censura era considerada uma violação do consagrado direito constitucional de liberdade de expressão e entendida como um abuso cometido pelos governantes.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 282,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 42,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "CE",
+    "statement": "Se a altura da órbita do satélite for de 800 km, então a distância que o satélite terá percorrido desde o lançamento do foguete até dar uma volta completa na própria órbita terá sido igual a 800 + 1.600π km.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 283,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 43,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "CE",
+    "statement": "Desprezando-se a massa perdida pelo foguete devido ao consumo de combustível, a variação da energia potencial gravitacional do satélite ao subir até a altura h será mSgh.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 284,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 44,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "CE",
+    "statement": "Depois de lançar o satélite, o foguete irá cair, em queda livre, percorrendo o mesmo trajeto, na mesma direção radial em que ele subiu.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 285,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 45,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "CE",
+    "statement": "Não é possível lançar dois satélites, em órbitas circulares de mesma altura, que tenham diferentes períodos de revolução em torno da Terra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 286,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 46,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "CE",
+    "statement": "A altura h atingida pelo foguete não depende da massa do foguete nem da do satélite.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 287,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 47,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "CE",
+    "statement": "A velocidade do satélite necessária para que ele tenha uma órbita circular em torno da Terra depende da raiz quadrada da massa da Terra.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 288,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 50,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "MCQ",
+    "statement": "Supondo que a trajetória vertical de subida do foguete possa ser descrita pela função quadrática h(t) = vLFt – gt2/2, em que h é a altura, em quilômetros, t é o tempo, em segundos, desde o lançamento do foguete e vLF é a velocidade de lançamento do foguete em km/s, assinale a opção que apresenta a altura máxima atingida pelo foguete.",
+    "options": [
+      "(vLF)2/g",
+      "vLF/g",
+      "(vLF)2/2g",
+      "vLF/2g"
+    ],
+    "answer": 2,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa C."
+  },
+  {
+    "id": 289,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 51,
+    "language": null,
+    "subject": "Física",
+    "topic": "Satélites",
+    "type": "MCQ",
+    "statement": "Suponha que o satélite S1 tenha sido lançado a uma altura de 6.400 km, e o satélite S2, a uma altura de 19.200 km. Considerando que ambos os satélites tenham sido lançados em órbitas circulares e desprezando a massa perdida pelo foguete devido ao consumo de combustível, assinale a opção que corresponde à razão entre as velocidades de S1 e S2.",
+    "options": [
+      "2",
+      "√2",
+      "√3",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 290,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 52,
+    "language": null,
+    "subject": "Química",
+    "topic": "Combustíveis e atmosfera",
+    "type": "CE",
+    "statement": "O vapor d’água liberado em altas altitudes pelos foguetes não tem relevância para o efeito estufa, pois a água em estado gasoso não é um gás de efeito estufa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 291,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 53,
+    "language": null,
+    "subject": "Química",
+    "topic": "Combustíveis e atmosfera",
+    "type": "CE",
+    "statement": "O CO2 retém parte da radiação infravermelha devolvida pela superfície terrestre ao espaço.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 292,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 54,
+    "language": null,
+    "subject": "Química",
+    "topic": "Combustíveis e atmosfera",
+    "type": "CE",
+    "statement": "O oxigênio molecular (O2) é uma molécula covalente polar de geometria linear.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 293,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 55,
+    "language": null,
+    "subject": "Química",
+    "topic": "Combustíveis e atmosfera",
+    "type": "CE",
+    "statement": "O CO2 gerado na queima do querosene é um gás de efeito estufa de longa duração, que contribui para o aquecimento global.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 294,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 56,
+    "language": null,
+    "subject": "Química",
+    "topic": "Combustíveis e atmosfera",
+    "type": "CE",
+    "statement": "O querosene pode ser extraído do petróleo por meio de um processo de separação conhecido como destilação fracionada.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 295,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 58,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Francesco Petrarca",
+    "type": "CE",
+    "statement": "É correto concluir do emprego de vocativos na segunda estrofe do poema que o sujeito lírico dirige-se ao próprio sentimento, o qual ele nomeia de “morte” e “mal”.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 296,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 59,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Francesco Petrarca",
+    "type": "CE",
+    "statement": "Ao recorrer a antíteses e contradições para abordar o tema do amor, o poeta trabalha literariamente com o estilo árcade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 297,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 60,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Francesco Petrarca",
+    "type": "CE",
+    "statement": "As duas primeiras estrofes do poema seguem o esquema de rimas alternadas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 298,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 61,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Francesco Petrarca",
+    "type": "CE",
+    "statement": "Esse poema de Francesco Petrarca classifica-se como soneto, forma poética fixa consagrada pelos poetas classicistas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 299,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 63,
+    "language": null,
+    "subject": "Música",
+    "topic": "Jean-Philippe Rameau",
+    "type": "CE",
+    "statement": "No vídeo de referência da ópera barroca cômica Platée — “Dis donc, dis donc pourquoi? Quoi?” (acte 1, scène 4) —, nota-se, na interpretação da música, uma presença maior de cantoras, dado o predomínio de vozes femininas, do que de cantores.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 300,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 64,
+    "language": null,
+    "subject": "Música",
+    "topic": "Jean-Philippe Rameau",
+    "type": "CE",
+    "statement": "Dos tipos de obra citados no texto como as principais obras de Rameau — motetos, cantatas e óperas —, bem como do vídeo de referência da ópera barroca cômica Platée — “Dis donc, dis donc pourquoi? Quoi?” (acte 1, scène 4) —, é correto concluir que o compositor se concentrou mais em obras que incluíam canto do que em obras exclusivamente instrumentais.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 301,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 65,
+    "language": null,
+    "subject": "Português",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "No fragmento de texto apresentado, as formas verbais “Queres”, “examina” e “empreende” estão flexionadas no modo imperativo, mas as ações por elas expressas direcionam-se a pessoas diferentes: a primeira forma verbal está associada à segunda pessoa do singular, enquanto as duas outras, à terceira pessoa do singular.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 302,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 66,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "Infere-se da argumentação de Epicteto no trecho apresentado que a responsabilidade do atleta está relacionada às suas possibilidades de autodeterminação e às suas escolhas éticas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 303,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 67,
+    "language": null,
+    "subject": "Português",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "O propósito comunicativo do fragmento de texto apresentado é instruir ou orientar o interlocutor acerca da realização de um conjunto de atividades.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 304,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 68,
+    "language": null,
+    "subject": "Filosofia",
+    "topic": "Epicteto",
+    "type": "CE",
+    "statement": "Epicteto é reconhecido como pensador estoico cuja filosofia influenciou Sócrates e seus discípulos Platão e Aristóteles.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 305,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 69,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Antígona",
+    "type": "CE",
+    "statement": "Na tragédia grega clássica, o coro comentava e aconselhava as ações das personagens para promover a conscientização política e a reflexão do público, enquanto, na comédia grega clássica, os comentários do coro visavam alienar, com humor, o público.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 306,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 70,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "Antígona",
+    "type": "CE",
+    "statement": "O coro, no teatro grego clássico, representava a voz do coletivo, ou seja, o ponto de vista da comunidade, promovendo reflexão e contribuindo para fazer do teatro um ato social.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 307,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 71,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "A interação histórica entre comunidades humanas e o ambiente em práticas de manejo sustentável no cerrado é conhecida como sociobiodiversidade.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 308,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 72,
+    "language": null,
+    "subject": "Português",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "Nos três primeiros parágrafos do segundo excerto apresentado anteriormente, o nome próprio “Nina Laranjeiras”, a expressão “A pesquisadora” e o pronome “Ela” compõem uma cadeia que garante coesão referencial no texto.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 309,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 73,
+    "language": null,
+    "subject": "Português",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "Considerando-se a regência do verbo esquecer conforme preconizada pela norma padrão do português, o segmento “Não nos esqueçamos que o Cerrado”, na fala da bióloga Mercedes Bustamante, poderia ser substituído por Não esqueçamos de que o Cerrado, sem prejuízo da correção gramatical do texto escrito.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 310,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 74,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "As práticas produtivas sustentáveis estão intrinsicamente relacionadas às comunidades tradicionais que ocupam o cerrado, sendo um exemplo dessas práticas o plantio direto, cujo princípio fundamental é o revolvimento intenso da terra para promover a boa distribuição das sementes e dos fertilizantes.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 311,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 75,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "No cerrado, o avanço do agronegócio já supera as taxas de desmatamento registradas na Amazônia, o que o consolida como a principal frente de expansão agropecuária do Brasil.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 312,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 76,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Cerrado",
+    "type": "CE",
+    "statement": "A ocupação tradicional do cerrado está condicionada a fatores físicos que influenciam tanto a distribuição espacial das comunidades tradicionais quanto suas práticas produtivas sustentáveis.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 313,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 78,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Chapada dos Veadeiros",
+    "type": "MCQ",
+    "statement": "Considerando aspectos relativos ao relevo e ao clima da região Centro-Oeste, assinale a opção correta acerca da Chapada dos Veadeiros.",
+    "options": [
+      "Do ponto de vista geomorfológico, cachoeiras e corredeiras são feições típicas de regiões com relevo antigo, onde os processos de erosão remontam a ciclos antigos de dissecação do planalto, como é o caso da Chapada dos Veadeiros.",
+      "A abundância de água na Chapada dos Veadeiros deve-se às chuvas bem distribuídas durante todo o ano.",
+      "O relevo da Chapada dos Veadeiros é predominantemente acidentado, o que impede a mecanização agrícola e a pecuária extensiva em toda a região.",
+      "O clima tropical sazonal, típico da região da Chapada dos Veadeiros, condiciona as práticas agrícolas e extrativistas das comunidades locais."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 314,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 79,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Enzimas",
+    "type": "CE",
+    "statement": "As enzimas, que são insensíveis a variações de temperatura ou pH, são consumidas durante as reações enzimáticas que ocorrem nos alimentos ao longo do período de armazenamento.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 315,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 80,
+    "language": null,
+    "subject": "Química",
+    "topic": "Alimentos",
+    "type": "CE",
+    "statement": "O termo “higroscopicidade”, presente no último período do texto, diz respeito à propriedade de certos materiais absorverem ou reterem umidade do ambiente.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 316,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 81,
+    "language": null,
+    "subject": "Química",
+    "topic": "Alimentos",
+    "type": "CE",
+    "statement": "A oxidação de lipídios e as reações enzimáticas são transformações químicas, ao passo que a degradação de vitaminas é um processo físico.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 317,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 82,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Fertilizantes e fotossíntese",
+    "type": "CE",
+    "statement": "O nitrogênio (N) dos fertilizantes contribui para a síntese de proteínas nas plantas porque os aminoácidos (base das proteínas) contêm nitrogênio.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 318,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 83,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Fertilizantes e fotossíntese",
+    "type": "CE",
+    "statement": "A fotossíntese, um processo de geração de energia que ocorre nos organismos clorofilados, acontece nas suas cristas mitocondriais.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 319,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 84,
+    "language": null,
+    "subject": "Química",
+    "topic": "Reações químicas",
+    "type": "CE",
+    "statement": "Considere o seguinte exemplo de reação enzimática que ocorre durante o processamento e o transporte de alimentos e pode causar alteração de sabor, cor e valor nutricional: a oxidação enzimática da tirosina (C9H11NO3) catalisada pela enzima tirosinase, em que a, b, c e d representam os respectivos coeficientes estequiométricos das substâncias envolvidas.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 320,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 85,
+    "language": null,
+    "subject": "Química",
+    "topic": "Reações químicas",
+    "type": "MCQ",
+    "statement": "Sabendo-se que o nitrato de amônio (NH4NO3) é um fertilizante mineral rico em nitrogênio que fornece este nutriente em duas formas assimiláveis pelas plantas — o nitrato (NO3 −) e o amônio (NH4 +) —, é correto afirmar que o nitrato de amônio é um exemplo de substância em que estão presentes ligações",
+    "options": [
+      "iônicas e covalentes.",
+      "iônicas e metálicas.",
+      "covalentes e metálicas.",
+      "iônicas, apenas."
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa A."
+  },
+  {
+    "id": 321,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 86,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Interações ecológicas",
+    "type": "CE",
+    "statement": "Se a taxa de observação de interações I(t) tiver sido constante ao longo do tempo de observação t, em horas, então I(t) pode ser corretamente descrita pela função afim I(t) = 7,25t.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 322,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 87,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "Interações ecológicas",
+    "type": "CE",
+    "statement": "Considere que o peixe-limpador neon-cata-piolho fará a remoção de 800 parasitas de um tubarão-lixa, de maneira a garantir a remoção de 50% dos parasitas a cada sessão de limpeza. Nesse caso, após a 4.ª sessão de limpeza, o número de parasitas no tubarão-lixa será inferior a 2,5% da quantidade inicial.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 323,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 88,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Atol das Rocas",
+    "type": "CE",
+    "statement": "O atol das Rocas é uma reserva biológica sob proteção integral do Sistema Nacional de Unidades de Conservação (SNUC), de modo que é cobrada de visitantes e turistas uma taxa de preservação ambiental de acordo com os dias de permanência na área.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 324,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 89,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Fernando de Noronha",
+    "type": "CE",
+    "statement": "A formação geológica do arquipélago de Fernando de Noronha está relacionada a erupções vulcânicas submarinas ocorridas há milhões de anos, que resultaram na elevação de rochas magmáticas acima do nível do mar.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 325,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 90,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Pesca e sustentabilidade",
+    "type": "CE",
+    "statement": "A pesca no entorno do Parque Nacional de Fernando de Noronha é um exemplo de prática de desenvolvimento econômico sustentável, já que promove o aumento da renda local sem provocar impactos relevantes nos ecossistemas marinhos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 326,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 91,
+    "language": null,
+    "subject": "Matemática",
+    "topic": "População",
+    "type": "CE",
+    "statement": "Considere que, em um estudo de longo prazo, tenha sido observado que a população do bodião-de-noronha satisfaz ao modelo P(t) = 8.000 / (1 + 15e^(−0,15t)), em que t é o tempo, em anos, decorrido desde o início do monitoramento. Nesse caso, a população para de crescer no momento em que atinge 4.000 indivíduos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 327,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 92,
+    "language": null,
+    "subject": "Português",
+    "topic": "Atol das Rocas",
+    "type": "CE",
+    "statement": "No trecho “quando os peixes predadores se concedem momentos de trégua e se submetem à limpeza realizada por outros peixes e camarões” (primeiro período do excerto), o vocábulo “se”, em suas duas ocorrências, desempenha funções sintáticas diferentes.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 328,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 93,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Relações ecológicas",
+    "type": "CE",
+    "statement": "De acordo com o texto apresentado, os peixes limpadores e as espécies clientes são competidores, mas mantêm a propriedade de sua história evolutiva concernente em eventualmente aceitar ajudar uns aos outros, conforme se depreende do trecho “se concedem momentos de trégua” (primeiro período do segundo parágrafo).",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  },
+  {
+    "id": 329,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 94,
+    "language": null,
+    "subject": "Física",
+    "topic": "Pressão",
+    "type": "CE",
+    "statement": "Caso a pressão máxima suportada por um peixe seja de 2 atm, então este peixe deve, para sua segurança e bem-estar, nadar sempre a uma profundidade menor que 10 m.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 330,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 95,
+    "language": null,
+    "subject": "Geografia",
+    "topic": "Escala",
+    "type": "MCQ",
+    "statement": "Sabendo-se que o atol das Rocas está localizado a aproximadamente 267 km de Natal, no Rio Grande do Norte, é correto afirmar que, em um mapa cuja escala seja de 1:5.000.000, a distância aproximada entre Natal e o atol das Rocas será igual a",
+    "options": [
+      "2,67 cm.",
+      "5,34 cm.",
+      "13,35 cm.",
+      "53,40 cm."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 331,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 96,
+    "language": null,
+    "subject": "Biologia",
+    "topic": "Relações ecológicas",
+    "type": "MCQ",
+    "statement": "Conclui-se do trecho reproduzido do texto Aliança do fundo do mar que a relação ecológica predominante entre os peixes-limpadores e seus clientes é o",
+    "options": [
+      "parasitismo.",
+      "comensalismo.",
+      "amensalismo.",
+      "mutualismo."
+    ],
+    "answer": 3,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa D."
+  },
+  {
+    "id": 332,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 97,
+    "language": null,
+    "subject": "Física",
+    "topic": "Densidade",
+    "type": "MCQ",
+    "statement": "Se um peixe de 100 kg estiver em repouso a 5 m de profundidade em uma região do mar sem corrente, então o volume ocupado pelo peixe será igual a",
+    "options": [
+      "0,05 m3.",
+      "0,10 m3.",
+      "0,15 m3.",
+      "0,20 m3."
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa B."
+  },
+  {
+    "id": 333,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 98,
+    "language": null,
+    "subject": "Português",
+    "topic": "Atol das Rocas",
+    "type": "MCQ",
+    "statement": "Predomina no segundo parágrafo do excerto a tipologia textual",
+    "options": [
+      "argumentativa.",
+      "descritiva.",
+      "expositiva.",
+      "narrativa."
+    ],
+    "answer": 2,
+    "explanation": "Gabarito oficial CEBRASPE: alternativa C."
+  },
+  {
+    "id": 334,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 99,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "Uma rubrica pode sinalizar ações e reações não verbais da peça, indicando comportamentos e hábitos das personagens para além do que dizem em diálogos.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 0,
+    "explanation": "Gabarito oficial CEBRASPE: Certo."
+  },
+  {
+    "id": 335,
+    "exam": "2025-p2",
+    "year": 2025,
+    "part": 2,
+    "item": 100,
+    "language": null,
+    "subject": "Literatura",
+    "topic": "A pena e a lei",
+    "type": "CE",
+    "statement": "O trecho proporciona um entendimento preciso do que Ariano Suassuna queria indicar com as ações e escolhas estéticas da peça, de forma que não é possível qualquer outra proposta de montagem e estética, já que estas estão bem definidas na rubrica.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "answer": 1,
+    "explanation": "Gabarito oficial CEBRASPE: Errado."
+  }
+]
