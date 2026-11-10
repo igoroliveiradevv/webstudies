@@ -46,7 +46,7 @@ export default function ContaPage() {
       </div>
       <form onSubmit={submit}>
         {mode === "register" && <label>Username<input required minLength={3} maxLength={20} pattern="[A-Za-z0-9_]+" autoComplete="username" value={username} onChange={e=>setUsername(e.target.value)} placeholder="seu_usuario"/><small>3–20 caracteres: letras, números e _.</small></label>}
-        <label>E-mail<input required type="email" autoComplete="email" value={email} onChange={e=>setEmail(e.target.value)} placeholder="voce@email.com"/></label>
+        <label>{mode === "login" ? "Username ou e-mail" : "E-mail"}<input required type={mode === "login" ? "text" : "email"} autoComplete={mode === "login" ? "username" : "email"} value={email} onChange={e=>setEmail(e.target.value)} placeholder="voce@email.com"/></label>
         <label>Senha<input required type="password" autoComplete={mode === "register" ? "new-password" : "current-password"} value={password} onChange={e=>setPassword(e.target.value)} placeholder={mode === "register" ? "Crie uma senha forte" : "Sua senha"}/></label>
         {mode === "register" && <div className="passwordRules">A senha deve ter 12+ caracteres, letra maiúscula, minúscula, número e símbolo.</div>}
         {error && <div className="accountError">{error}</div>}
