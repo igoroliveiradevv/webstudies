@@ -1,12 +1,11 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
 import "./auth-extra.css";
 
 export default function ResetPasswordPage() {
-  const params=useSearchParams();
-  const token=params.get("token")||"";
+  const [token,setToken]=useState("");
+  useEffect(()=>{setToken(new URLSearchParams(window.location.search).get("token")||"");},[]);
   const [password,setPassword]=useState("");
   const [confirm,setConfirm]=useState("");
   const [message,setMessage]=useState("");
