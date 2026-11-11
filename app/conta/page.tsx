@@ -6,8 +6,8 @@ import Link from "next/link";
 
 export default function ContaPage() {
   const [mode, setMode] = useState<"register" | "login">("register");
-  const [username, setUsername] = useState("igorevv");
-  const [email, setEmail] = useState("oigor0869@gmail.com");
+  const [username, setUsername] = useState("");
+  const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
