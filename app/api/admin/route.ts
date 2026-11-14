@@ -53,6 +53,21 @@ export async function POST(request: NextRequest) {
       await sql`INSERT INTO ritmo_users (id, username, email, password_hash, verified, account_status) VALUES (${id}::uuid, ${username}, ${email}, ${await hashPassword(password)}, TRUE, 'active')`;
       return NextResponse.json({ ok: true, id });
     }
+    if (body.action === "edit-announcement") {
+      const id = String(body.id || "");
+      const title = String(body.title || "").trim();
+      const message = String(body.message || "").trim();
+      if (!id || !title || title.length > 100 || !message || message.length > 1000) return NextResponse.json({ error: "Dados inválidos para editar o aviso." }, { status: 400 });
+      const updated = await sql`UPDATE ritmo_announcements SET title = ${title}, message = ${message} WHERE id = ${id}::uuid RETURNING id`;
+      if (!updated.length) return NextResponse.json({ error: "Aviso não encontrado." }, { status: 404 });
+      return NextResponse.json({ ok: true });
+    }
+    if (body.action === "delete-announcement") {
+      const id = String(body.id || "");
+      if (!id) return NextResponse.json({ error: "Aviso inválido." }, { status: 400 });
+      await sql`DELETE FROM ritmo_announcements WHERE id = ${id}::uuid`;
+      return NextResponse.json({ ok: true });
+    }
     if (body.action === "announcement") {
       const title = String(body.title || "").trim();
       const message = String(body.message || "").trim();
