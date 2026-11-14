@@ -24,12 +24,12 @@ export async function POST(request: NextRequest) {
         return NextResponse.json({ error: "Credencial inválida." }, { status: 401 });
       }
       const response = NextResponse.json({ ok: true });
-      response.cookies.set(COOKIE, signature(), { httpOnly: true, secure: process.env.NODE_ENV === "production", sameSite: "strict", path: "/admin", maxAge: 60 * 60 * 8 });
+      response.cookies.set(COOKIE, signature(), { httpOnly: true, secure: process.env.NODE_ENV === "production", sameSite: "strict", path: "/api/admin", maxAge: 60 * 60 * 8 });
       return response;
     }
     if (body.action === "logout") {
       const response = NextResponse.json({ ok: true });
-      response.cookies.set(COOKIE, "", { httpOnly: true, secure: process.env.NODE_ENV === "production", sameSite: "strict", path: "/admin", maxAge: 0 });
+      response.cookies.set(COOKIE, "", { httpOnly: true, secure: process.env.NODE_ENV === "production", sameSite: "strict", path: "/api/admin", maxAge: 0 });
       return response;
     }
     if (!isAdmin(request)) return unauthorized();
