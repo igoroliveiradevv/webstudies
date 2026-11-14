@@ -20,7 +20,9 @@ export async function POST(request: NextRequest) {
     if (body.action === "login") {
       const supplied = String(body.key || "");
       const configured = process.env.ADMIN_ACCESS_KEY || "";
-      if (!configured || supplied.length !== configured.length || !timingSafeEqual(Buffer.from(supplied), Buffer.from(configured))) {
+      const suppliedBytes = Buffer.from(supplied, "utf8");
+      const configuredBytes = Buffer.from(configured, "utf8");
+      if (!configured || suppliedBytes.length !== configuredBytes.length || !timingSafeEqual(suppliedBytes, configuredBytes)) {
         return NextResponse.json({ error: "Credencial inválida." }, { status: 401 });
       }
       const response = NextResponse.json({ ok: true });
