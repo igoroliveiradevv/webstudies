@@ -122,3 +122,37 @@
 }
 
 .accountLink{font-size:11px;color:#c6b5ff;text-decoration:none;border:1px solid #44395f;background:#28233a;border-radius:8px;padding:8px 11px}.accountLink:hover{border-color:#a78bfa}@media(max-width:650px){.accountLink{font-size:10px;padding:7px 9px}}
+
+
+/* Preferência de aparência: modo diurno */
+.themeToggle{width:34px;height:34px;border:1px solid var(--line);border-radius:9px;background:var(--panel);color:var(--text);display:grid;place-items:center;cursor:pointer;flex:none}
+html[data-theme="light"]{--bg:#f3f5fa;--panel:#fff;--panel2:#eef1f7;--line:#dce1eb;--text:#202638;--muted:#687386;--purple:#7355d8}
+html[data-theme="light"] body{background:var(--bg);color:var(--text)}
+html[data-theme="light"] .sidebar{background:#fff}
+html[data-theme="light"] .profile,html[data-theme="light"] .stat,html[data-theme="light"] .panel,html[data-theme="light"] .subjectCard{background:#fff;border-color:#dce1eb}
+html[data-theme="light"] .nav{color:#596477}
+html[data-theme="light"] .nav:hover,html[data-theme="light"] .nav.active{background:#eee9ff;color:#6748c8}
+html[data-theme="light"] .tip{background:#f0edff;border-color:#ded5ff;color:#6748c8}
+html[data-theme="light"] .tip p,html[data-theme="light"] .profile small,html[data-theme="light"] .breadcrumb,html[data-theme="light"] .date,html[data-theme="light"] .muted{color:#687386}
+html[data-theme="light"] .outline,html[data-theme="light"] .choose,html[data-theme="light"] .answer,html[data-theme="light"] .checkSubject,html[data-theme="light"] .count{background:#f1f3f8;color:#394357;border-color:#dce1eb}
+html[data-theme="light"] .choose.activeChoose,html[data-theme="light"] .selectedAnswer,html[data-theme="light"] .checkSubject.checked,html[data-theme="light"] .activeCount{background:#eee9ff;color:#563bb2;border-color:#a996ed}
+html[data-theme="light"] .timerCard{background:linear-gradient(145deg,#eee9ff,#fff 75%);border-color:#d9d0f6}
+html[data-theme="light"] .clock,html[data-theme="light"] .subjectRow b{color:#202638}
+html[data-theme="light"] .barTrack,html[data-theme="light"] .progress,html[data-theme="light"] .quizProgress{background:#e6e9f0}
+html[data-theme="light"] .subjectRow,html[data-theme="light"] .sourcePanel a{border-color:#e4e7ee;color:#4d586b}
+html[data-theme="light"] .modal{background:#fff;border-color:#dce1eb}
+html[data-theme="light"] .modal input{background:#f6f7fb;color:#202638;border-color:#dce1eb}
+
+/* Celebração ao concluir uma sessão de estudos */
+.celebrationOverlay{position:fixed;inset:0;z-index:1200;background:#080b16d9;display:grid;place-items:center;padding:20px;overflow:hidden;animation:celebrateFade .25s ease-out}
+.celebrationCard{position:relative;z-index:2;width:min(440px,100%);padding:34px 28px;text-align:center;border-radius:22px;background:#1b2030;border:1px solid #514274;box-shadow:0 24px 100px #0008;animation:celebratePop .55s cubic-bezier(.2,1.4,.4,1)}
+.celebrationIcon{width:68px;height:68px;margin:0 auto 18px;border-radius:20px;display:grid;place-items:center;background:#342a50;color:#c5b5ff;animation:celebrateSpin .9s ease-out}
+.celebrationCard h2{font:800 27px Manrope;margin:7px 0 10px;color:#fff}
+.celebrationCard>p:not(.eyebrow){font-size:13px;line-height:1.7;color:#bdc5d3;margin:0 0 22px}
+.confetti{position:absolute;inset:0;pointer-events:none}
+.confetti i{position:absolute;left:calc(var(--i) * 4.1667%);top:-15px;width:7px;height:13px;border-radius:2px;background:hsl(calc(var(--i) * 47),85%,68%);animation:confettiFall calc(1.7s + var(--i) * .02s) ease-in forwards;animation-delay:calc(var(--i) * .025s);transform:rotate(calc(var(--i) * 29deg))}
+@keyframes celebrateFade{from{opacity:0}to{opacity:1}}
+@keyframes celebratePop{from{opacity:0;transform:translateY(22px) scale(.86)}to{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes celebrateSpin{from{transform:rotate(-35deg) scale(.5)}to{transform:rotate(0) scale(1)}}
+@keyframes confettiFall{to{top:110%;transform:translateX(calc((var(--i) - 12) * 8px)) rotate(720deg);opacity:.2}}
+@media(prefers-reduced-motion:reduce){.celebrationOverlay,.celebrationCard,.celebrationIcon,.confetti i{animation:none!important}}
